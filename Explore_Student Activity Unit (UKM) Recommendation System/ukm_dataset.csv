@@ -1,0 +1,38 @@
+ID_UKM,Nama_UKM,Seni,Sains,Sosial,Riset,Olahraga,Kerohanian,Kompetitif,Waktu_Komitmen,Ekstrovert_Friendly
+EM,Eksekutif Mahasiswa,0.1,0.1,1.0,0.2,0.0,0.1,1.0,6,1.0
+DPM,Dewan Perwakilan Mahasiswa,0.1,0.2,1.0,0.3,0.0,0.1,0.8,5,0.8
+AIESEC,AIESEC in UB,0.2,1.0,0.6,0.4,0.0,0.1,0.9,5,1.0
+FORMASI,FORMASI,0.4,0.8,0.6,0.2,0.0,0.1,0.7,4,0.7
+FORDI,FORDI MAPELAR,0.3,1.0,0.7,0.6,0.0,0.1,0.8,5,0.6
+IAAS,IAAS LC UB,0.2,1.0,0.5,0.7,0.0,0.1,0.7,5,0.8
+MW,Mahasiswa Wirausaha,0.3,0.7,0.4,0.2,0.0,0.1,0.9,4,0.9
+RKIM,RKIM,0.2,1.0,0.4,1.0,0.0,0.1,0.8,6,0.6
+SRE,Society of Renewable Energy,0.2,1.0,0.3,0.8,0.0,0.1,0.7,5,0.7
+SYNBIO,Synthetic Biology,0.2,1.0,0.2,1.0,0.0,0.1,0.6,6,0.5
+UBMUN,UB MUN CLUB,0.2,0.7,0.9,0.4,0.0,0.1,0.9,5,1.0
+UAKB,Kerohanian Buddhis,0.1,0.1,0.8,0.1,0.0,1.0,0.4,3,0.6
+UNIKAHIDHA,Kerohanian Hindu Dharma,0.1,0.1,0.8,0.1,0.0,1.0,0.4,3,0.6
+UAKI,Kerohanian Islam,0.1,0.1,0.8,0.1,0.0,1.0,0.4,3,0.6
+UAKKAT,Kerohanian Katolik,0.1,0.1,0.8,0.1,0.0,1.0,0.4,3,0.6
+UAKK,Kerohanian Kristen,0.1,0.1,0.8,0.1,0.0,1.0,0.4,3,0.6
+UAB,Band,1.0,0.1,0.5,0.0,0.0,0.1,0.8,5,1.0
+UNITANTRI,Karawitan dan Tari,1.0,0.1,0.5,0.0,0.0,0.1,0.6,5,0.8
+KUTUB,Teater KUTUB,1.0,0.1,0.5,0.1,0.0,0.1,0.7,6,1.0
+MBESB,Marching Band ESB,1.0,0.1,0.3,0.1,0.0,0.1,0.9,8,1.0
+NOLDRJT,Nol Derajat Film,1.0,0.3,0.4,0.2,0.0,0.1,0.6,5,0.8
+PSM,Paduan Suara Mahasiswa,1.0,0.1,0.4,0.0,0.0,0.1,0.8,5,0.9
+SR,Seni Religi,1.0,0.1,0.6,0.1,0.0,0.2,0.5,4,0.8
+UABB,Bola Basket,0.2,0.1,0.4,0.0,1.0,0.1,0.9,6,1.0
+UABT,Bulu Tangkis,0.2,0.1,0.3,0.0,1.0,0.1,0.7,5,0.9
+INKAI,Institut Karate-Do Indonesia,0.1,0.1,0.3,0.0,1.0,0.1,0.8,5,0.8
+UAP,Panahan,0.1,0.1,0.2,0.0,1.0,0.1,0.7,4,0.6
+TS,Tapak Suci,0.1,0.1,0.3,0.0,1.0,0.2,0.9,5,0.8
+UKMR,Renang,0.1,0.1,0.2,0.0,1.0,0.1,0.7,4,0.7
+FORMAPI,FORMAPI,0.2,0.3,1.0,0.3,0.0,0.1,0.6,4,0.8
+IMPALA,IMPALA,0.3,0.5,0.8,0.5,0.5,0.2,0.8,6,0.7
+KSR,KSR,0.2,0.4,1.0,0.4,0.2,0.2,0.7,5,0.8
+UAPKM,Pers Kampus Mahasiswa,0.6,0.4,0.8,0.3,0.0,0.1,0.7,4,0.9
+PRAMUKA,Pramuka,0.3,0.4,1.0,0.4,0.3,0.2,0.8,5,0.9
+PPB,Putra Putri Brawijaya,0.5,0.4,0.9,0.3,0.1,0.1,0.9,5,1.0
+MENWA,SATMENWA 803,0.1,0.3,0.9,0.3,0.4,0.2,0.9,6,0.9
+TEGAZS,TEGAZS,0.2,0.4,1.0,0.5,0.0,0.2,0.7,5,0.8
