@@ -1,0 +1,501 @@
+usia_ibu;pendidikan_terakhir;pekerjaan;jarak_ke_faskes_km;jumlah_anak;status_pernikahan;kepesertaan_BPJS;frekuensi_kunjungan_hamil;usia_anak_bulan;berat_badan_kg;tinggi_badan_cm;status_imunisasi;status_asi;jenis_kelamin;riwayat_diare_infeksi;nafsu_makan_anak;frekuensi_makan_per_hari;pencegahan
+24;SMP;IRT;11.28;4;Menikah;Ya;3;43;8.2;87.0;Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;2;Pemberian Makanan Tambahan
+37;SMP;Wirausaha;12.15;4;Menikah;Ya;2;7;6.0;64.0;Tidak Lengkap;Eksklusif;Laki-laki;Tidak;Banyak;4;Kontrol Rutin ke Puskesmas
+32;SD;Buruh;15.78;2;Belum Menikah;Ya;3;41;13.9;88.3;Lengkap;Eksklusif;Perempuan;Tidak;Cukup;2;Pemberian Makanan Tambahan
+28;SMA;Buruh;9.88;2;Menikah;Ya;2;59;16.1;105.4;Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;4;Kontrol Rutin ke Puskesmas
+25;SMA;IRT;1.29;3;Menikah;Ya;1;31;5.5;79.8;Lengkap;Tidak Eksklusif;Perempuan;Tidak;Cukup;4;Kontrol Rutin ke Puskesmas
+38;SD;Petani;3.7;4;Menikah;Tidak;4;16;14.9;74.8;Lengkap;Eksklusif;Perempuan;Tidak;Banyak;5;Edukasi Gizi
+24;S1;Buruh;9.05;4;Cerai;Ya;1;13;13.0;67.2;Lengkap;Eksklusif;Laki-laki;Tidak;Kurang;5;Pemberian Makanan Tambahan
+43;SMA;PNS;14.63;4;Menikah;Ya;5;49;6.5;67.6;Tidak Lengkap;Eksklusif;Laki-laki;Tidak;Banyak;5;Lainnya
+36;SMP;IRT;12.07;1;Menikah;Ya;2;45;7.6;81.6;Lengkap;Eksklusif;Perempuan;Ya;Banyak;4;Kontrol Rutin ke Puskesmas
+40;SD;PNS;13.18;3;Menikah;Ya;5;48;13.5;89.8;Lengkap;Eksklusif;Laki-laki;Tidak;Banyak;4;Edukasi Gizi
+28;SMP;Petani;9.85;4;Menikah;Ya;9;27;9.4;64.0;Lengkap;Tidak Eksklusif;Perempuan;Ya;Banyak;2;Pemberian Makanan Tambahan
+28;S1;IRT;12.51;4;Menikah;Ya;8;25;19.1;107.0;Lengkap;Eksklusif;Laki-laki;Ya;Banyak;3;Lainnya
+41;SMA;Buruh;6.92;4;Menikah;Tidak;0;13;17.3;97.8;Tidak Lengkap;Tidak Eksklusif;Laki-laki;Tidak;Kurang;5;Pemberian Makanan Tambahan
+38;SMA;Wirausaha;9.67;1;Menikah;Ya;5;34;19.8;89.3;Lengkap;Tidak Eksklusif;Perempuan;Tidak;Cukup;2;Pemberian Makanan Tambahan
+21;SMA;Wirausaha;15.01;1;Menikah;Ya;8;45;8.9;101.4;Tidak Lengkap;Eksklusif;Laki-laki;Tidak;Banyak;2;Pemberian Makanan Tambahan
+25;SMA;Buruh;17.5;2;Cerai;Ya;3;31;19.5;64.0;Lengkap;Eksklusif;Laki-laki;Tidak;Banyak;1;Pemberian Makanan Tambahan
+41;D3;Buruh;8.96;3;Menikah;Ya;1;35;11.5;83.8;Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;5;Kontrol Rutin ke Puskesmas
+20;SD;Wirausaha;1.35;2;Menikah;Ya;3;22;10.2;91.5;Tidak Lengkap;Eksklusif;Laki-laki;Tidak;Kurang;2;Pemberian Makanan Tambahan
+39;SMA;Guru;3.65;3;Menikah;Ya;0;25;5.8;101.4;Lengkap;Tidak Eksklusif;Perempuan;Tidak;Banyak;1;Pemberian Makanan Tambahan
+38;SMP;IRT;0.91;1;Menikah;Ya;2;57;5.8;99.2;Tidak Lengkap;Tidak Eksklusif;Perempuan;Tidak;Banyak;5;Kontrol Rutin ke Puskesmas
+19;SMP;Wirausaha;13.24;4;Menikah;Ya;9;21;15.4;73.9;Lengkap;Eksklusif;Laki-laki;Tidak;Banyak;4;Edukasi Gizi
+41;SMA;IRT;6.98;2;Menikah;Tidak;8;51;11.9;107.0;Tidak Lengkap;Eksklusif;Perempuan;Ya;Banyak;1;Pemberian Makanan Tambahan
+29;SD;Guru;11.08;4;Menikah;Ya;9;48;8.4;66.2;Lengkap;Tidak Eksklusif;Perempuan;Ya;Banyak;4;Edukasi Gizi
+23;SD;IRT;10.12;2;Menikah;Tidak;4;12;14.2;103.8;Lengkap;Tidak Eksklusif;Laki-laki;Tidak;Cukup;3;Edukasi Gizi
+19;SMA;IRT;2.09;1;Menikah;Ya;5;21;8.8;108.5;Tidak Lengkap;Eksklusif;Laki-laki;Tidak;Banyak;3;Lainnya
+38;S1;Buruh;8.36;1;Menikah;Ya;2;50;13.7;68.9;Tidak Lengkap;Eksklusif;Perempuan;Ya;Cukup;3;Kontrol Rutin ke Puskesmas
+18;SMP;PNS;4.8;1;Menikah;Ya;4;52;10.4;96.1;Tidak Lengkap;Eksklusif;Perempuan;Tidak;Banyak;3;Edukasi Gizi
+29;SD;IRT;8.66;2;Menikah;Ya;7;53;17.4;62.0;Tidak Lengkap;Tidak Eksklusif;Perempuan;Tidak;Kurang;2;Pemberian Makanan Tambahan
+43;D3;IRT;4.47;3;Menikah;Ya;5;32;17.3;80.3;Tidak Lengkap;Eksklusif;Perempuan;Tidak;Kurang;3;Pemberian Makanan Tambahan
+39;D3;IRT;16.89;2;Menikah;Ya;3;58;12.2;85.8;Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;2;Pemberian Makanan Tambahan
+29;SMA;Guru;3.9;3;Menikah;Ya;1;28;10.3;89.0;Lengkap;Eksklusif;Perempuan;Tidak;Cukup;2;Pemberian Makanan Tambahan
+42;SMA;Wirausaha;19.24;2;Menikah;Ya;8;29;10.4;106.8;Lengkap;Eksklusif;Perempuan;Tidak;Cukup;5;Lainnya
+34;SMA;Buruh;8.61;2;Menikah;Ya;0;14;17.1;93.6;Lengkap;Eksklusif;Perempuan;Tidak;Cukup;2;Pemberian Makanan Tambahan
+44;SD;Guru;17.0;1;Menikah;Tidak;0;40;9.9;84.1;Lengkap;Tidak Eksklusif;Laki-laki;Tidak;Cukup;2;Pemberian Makanan Tambahan
+44;S1;Wirausaha;12.76;4;Menikah;Ya;3;56;8.1;100.5;Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;3;Lainnya
+27;D3;Guru;14.84;4;Menikah;Ya;6;25;6.3;107.5;Lengkap;Eksklusif;Laki-laki;Tidak;Kurang;2;Pemberian Makanan Tambahan
+33;SMP;IRT;15.47;3;Menikah;Ya;0;42;12.0;61.1;Lengkap;Eksklusif;Perempuan;Ya;Kurang;4;Pemberian Makanan Tambahan
+32;SD;IRT;10.34;4;Menikah;Tidak;8;47;12.2;109.1;Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;3;Edukasi Gizi
+32;S1;Buruh;11.09;2;Menikah;Tidak;3;22;17.6;64.3;Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;1;Pemberian Makanan Tambahan
+36;SMA;Buruh;10.52;2;Cerai;Ya;2;52;8.3;100.7;Lengkap;Eksklusif;Laki-laki;Tidak;Banyak;3;Kontrol Rutin ke Puskesmas
+29;SMA;Buruh;11.97;1;Menikah;Ya;0;36;10.7;74.0;Tidak Lengkap;Eksklusif;Laki-laki;Tidak;Banyak;2;Pemberian Makanan Tambahan
+40;SMA;PNS;1.07;1;Menikah;Ya;9;13;17.1;66.6;Lengkap;Eksklusif;Perempuan;Ya;Cukup;4;Lainnya
+37;SMA;Buruh;8.21;4;Menikah;Ya;3;20;17.4;82.0;Lengkap;Eksklusif;Perempuan;Tidak;Banyak;3;Lainnya
+42;S1;Buruh;12.32;3;Menikah;Ya;8;36;10.8;92.2;Lengkap;Eksklusif;Perempuan;Tidak;Kurang;4;Pemberian Makanan Tambahan
+20;S1;Petani;12.16;4;Menikah;Ya;9;58;11.9;79.0;Lengkap;Tidak Eksklusif;Laki-laki;Tidak;Banyak;1;Pemberian Makanan Tambahan
+22;D3;Buruh;15.96;4;Menikah;Ya;5;35;9.5;62.7;Lengkap;Tidak Eksklusif;Perempuan;Ya;Cukup;1;Pemberian Makanan Tambahan
+36;SMA;Wirausaha;13.27;4;Cerai;Ya;5;51;19.0;90.0;Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;5;Lainnya
+24;D3;Guru;19.85;4;Menikah;Tidak;0;25;6.8;105.1;Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;5;Kontrol Rutin ke Puskesmas
+38;SMA;IRT;6.04;2;Menikah;Ya;9;44;19.0;79.2;Lengkap;Tidak Eksklusif;Laki-laki;Ya;Cukup;3;Lainnya
+26;SMA;PNS;7.5;3;Menikah;Ya;1;58;15.3;70.8;Lengkap;Eksklusif;Laki-laki;Tidak;Kurang;5;Pemberian Makanan Tambahan
+24;SMP;Guru;7.99;2;Menikah;Ya;5;17;13.0;82.1;Tidak Lengkap;Tidak Eksklusif;Laki-laki;Tidak;Cukup;4;Edukasi Gizi
+35;D3;Guru;9.58;3;Menikah;Tidak;1;54;5.5;62.4;Tidak Lengkap;Tidak Eksklusif;Perempuan;Ya;Cukup;5;Kontrol Rutin ke Puskesmas
+21;D3;Buruh;16.8;1;Menikah;Ya;2;22;12.1;101.0;Lengkap;Eksklusif;Perempuan;Ya;Banyak;4;Kontrol Rutin ke Puskesmas
+42;SMA;Buruh;5.1;4;Menikah;Tidak;3;47;11.1;101.3;Lengkap;Eksklusif;Perempuan;Ya;Cukup;5;Lainnya
+31;D3;PNS;15.63;2;Menikah;Tidak;4;35;7.4;89.4;Lengkap;Tidak Eksklusif;Laki-laki;Tidak;Kurang;5;Pemberian Makanan Tambahan
+35;SMA;IRT;8.4;3;Menikah;Ya;8;34;14.8;77.7;Lengkap;Eksklusif;Laki-laki;Ya;Cukup;5;Lainnya
+43;SMP;Buruh;12.24;1;Belum Menikah;Ya;3;24;19.6;100.0;Tidak Lengkap;Eksklusif;Laki-laki;Tidak;Kurang;2;Pemberian Makanan Tambahan
+26;SMP;IRT;12.83;1;Cerai;Tidak;8;51;13.4;87.7;Lengkap;Eksklusif;Perempuan;Tidak;Cukup;2;Pemberian Makanan Tambahan
+43;SMP;PNS;7.77;4;Menikah;Ya;9;16;15.7;101.3;Tidak Lengkap;Eksklusif;Perempuan;Tidak;Banyak;5;Edukasi Gizi
+38;SMA;IRT;10.5;3;Menikah;Tidak;2;39;6.0;91.6;Lengkap;Eksklusif;Perempuan;Ya;Banyak;4;Kontrol Rutin ke Puskesmas
+19;SD;Wirausaha;8.55;2;Menikah;Tidak;7;55;11.3;99.2;Tidak Lengkap;Tidak Eksklusif;Laki-laki;Tidak;Cukup;3;Edukasi Gizi
+37;SMA;Guru;1.85;4;Belum Menikah;Ya;0;12;6.7;89.9;Lengkap;Tidak Eksklusif;Perempuan;Tidak;Cukup;1;Pemberian Makanan Tambahan
+32;SMA;Wirausaha;9.02;2;Menikah;Ya;8;49;14.2;80.7;Tidak Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;2;Pemberian Makanan Tambahan
+24;SMA;Wirausaha;2.4;1;Menikah;Tidak;8;39;19.1;107.9;Lengkap;Eksklusif;Perempuan;Tidak;Banyak;5;Lainnya
+29;SMA;Wirausaha;8.4;2;Menikah;Ya;9;25;14.9;87.1;Lengkap;Eksklusif;Perempuan;Ya;Cukup;1;Pemberian Makanan Tambahan
+25;SMA;Wirausaha;12.06;2;Menikah;Ya;1;55;6.2;90.3;Lengkap;Eksklusif;Perempuan;Tidak;Cukup;2;Pemberian Makanan Tambahan
+32;SMA;Buruh;11.8;4;Belum Menikah;Ya;3;43;10.3;71.0;Lengkap;Eksklusif;Perempuan;Tidak;Cukup;3;Lainnya
+20;SMP;Guru;13.42;2;Belum Menikah;Ya;7;29;13.3;91.3;Tidak Lengkap;Tidak Eksklusif;Laki-laki;Tidak;Banyak;4;Edukasi Gizi
+31;SMA;IRT;2.36;4;Menikah;Tidak;6;15;11.0;88.6;Tidak Lengkap;Tidak Eksklusif;Perempuan;Tidak;Banyak;5;Lainnya
+34;SMA;IRT;13.22;1;Menikah;Tidak;0;37;17.5;69.2;Tidak Lengkap;Eksklusif;Perempuan;Tidak;Banyak;3;Kontrol Rutin ke Puskesmas
+21;SMA;Guru;6.59;4;Menikah;Ya;4;57;17.2;63.0;Lengkap;Eksklusif;Laki-laki;Ya;Banyak;2;Pemberian Makanan Tambahan
+35;S1;Guru;8.28;4;Menikah;Ya;6;20;14.2;90.2;Tidak Lengkap;Eksklusif;Laki-laki;Tidak;Banyak;5;Lainnya
+25;SD;Buruh;17.23;3;Menikah;Ya;3;42;10.6;98.2;Lengkap;Eksklusif;Laki-laki;Tidak;Banyak;1;Pemberian Makanan Tambahan
+21;SMA;Guru;0.68;2;Menikah;Tidak;0;25;8.8;86.2;Lengkap;Eksklusif;Laki-laki;Ya;Cukup;4;Kontrol Rutin ke Puskesmas
+19;S1;Wirausaha;11.97;1;Menikah;Ya;8;8;6.6;71.3;Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;2;Pemberian Makanan Tambahan
+23;SMA;Guru;12.17;4;Menikah;Ya;4;42;10.3;93.3;Lengkap;Tidak Eksklusif;Perempuan;Tidak;Kurang;4;Pemberian Makanan Tambahan
+39;SMA;PNS;8.23;1;Belum Menikah;Ya;1;45;11.2;64.0;Lengkap;Eksklusif;Laki-laki;Tidak;Banyak;5;Kontrol Rutin ke Puskesmas
+27;SMA;Wirausaha;5.12;3;Menikah;Ya;7;13;15.1;82.1;Lengkap;Eksklusif;Laki-laki;Ya;Cukup;3;Lainnya
+21;SMA;Wirausaha;5.08;2;Menikah;Tidak;1;45;14.9;68.2;Lengkap;Tidak Eksklusif;Perempuan;Tidak;Cukup;4;Kontrol Rutin ke Puskesmas
+39;D3;Petani;17.73;4;Cerai;Ya;2;49;6.1;69.2;Tidak Lengkap;Eksklusif;Perempuan;Tidak;Banyak;1;Pemberian Makanan Tambahan
+35;SMP;Wirausaha;9.12;2;Menikah;Ya;9;28;10.9;70.1;Lengkap;Eksklusif;Perempuan;Tidak;Kurang;2;Pemberian Makanan Tambahan
+43;SMP;Wirausaha;6.95;3;Menikah;Ya;0;45;7.7;79.3;Lengkap;Eksklusif;Laki-laki;Ya;Banyak;1;Pemberian Makanan Tambahan
+29;SMA;Wirausaha;9.25;3;Belum Menikah;Tidak;1;16;7.4;62.6;Lengkap;Eksklusif;Perempuan;Tidak;Kurang;4;Pemberian Makanan Tambahan
+19;D3;IRT;13.55;1;Cerai;Ya;6;51;17.4;79.9;Lengkap;Tidak Eksklusif;Perempuan;Tidak;Kurang;3;Pemberian Makanan Tambahan
+27;SMA;Buruh;3.34;4;Menikah;Ya;9;13;5.6;85.6;Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;3;Lainnya
+21;SMP;Buruh;9.26;1;Menikah;Ya;1;34;11.3;84.2;Lengkap;Tidak Eksklusif;Laki-laki;Tidak;Cukup;1;Pemberian Makanan Tambahan
+31;SMA;IRT;11.96;3;Menikah;Tidak;5;35;7.5;79.1;Lengkap;Eksklusif;Perempuan;Ya;Cukup;5;Lainnya
+33;D3;Petani;19.0;2;Menikah;Ya;2;15;18.2;102.0;Lengkap;Eksklusif;Perempuan;Ya;Cukup;5;Kontrol Rutin ke Puskesmas
+32;SMP;PNS;5.42;1;Cerai;Ya;3;44;13.4;67.3;Lengkap;Tidak Eksklusif;Perempuan;Tidak;Cukup;3;Edukasi Gizi
+25;SMA;Wirausaha;7.51;1;Menikah;Ya;7;33;8.5;85.3;Tidak Lengkap;Eksklusif;Perempuan;Tidak;Banyak;1;Pemberian Makanan Tambahan
+31;SMA;IRT;7.9;2;Menikah;Ya;2;54;12.5;63.1;Lengkap;Eksklusif;Perempuan;Tidak;Banyak;1;Pemberian Makanan Tambahan
+40;SMA;Wirausaha;12.31;1;Menikah;Ya;9;41;16.0;63.6;Lengkap;Eksklusif;Perempuan;Tidak;Cukup;1;Pemberian Makanan Tambahan
+42;SMA;Petani;7.46;2;Menikah;Tidak;5;18;19.4;88.7;Tidak Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;4;Lainnya
+25;SMP;PNS;10.9;4;Menikah;Ya;0;37;8.3;88.3;Lengkap;Eksklusif;Laki-laki;Tidak;Kurang;5;Pemberian Makanan Tambahan
+38;SD;Wirausaha;15.74;2;Menikah;Ya;6;41;18.3;103.9;Lengkap;Eksklusif;Laki-laki;Tidak;Banyak;5;Edukasi Gizi
+33;SD;Petani;14.26;4;Cerai;Ya;7;42;19.0;87.9;Tidak Lengkap;Eksklusif;Perempuan;Tidak;Kurang;4;Pemberian Makanan Tambahan
+30;S1;Buruh;9.2;2;Menikah;Ya;7;31;18.7;108.0;Lengkap;Eksklusif;Perempuan;Tidak;Banyak;2;Pemberian Makanan Tambahan
+35;D3;Wirausaha;17.35;3;Menikah;Ya;2;27;14.5;62.4;Lengkap;Tidak Eksklusif;Perempuan;Tidak;Cukup;4;Kontrol Rutin ke Puskesmas
+32;SMA;Buruh;11.38;3;Menikah;Tidak;9;9;14.4;64.9;Lengkap;Eksklusif;Laki-laki;Ya;Cukup;1;Pemberian Makanan Tambahan
+38;S1;IRT;11.03;4;Menikah;Ya;0;36;11.0;62.2;Lengkap;Tidak Eksklusif;Perempuan;Tidak;Cukup;4;Kontrol Rutin ke Puskesmas
+41;SMA;Wirausaha;1.17;4;Menikah;Ya;8;23;16.3;69.3;Lengkap;Eksklusif;Laki-laki;Tidak;Banyak;1;Pemberian Makanan Tambahan
+43;SMA;Buruh;19.74;3;Menikah;Ya;5;43;13.0;87.1;Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;3;Lainnya
+42;SMA;PNS;2.9;4;Menikah;Ya;8;29;15.2;92.3;Lengkap;Tidak Eksklusif;Perempuan;Tidak;Kurang;1;Pemberian Makanan Tambahan
+30;SD;Buruh;5.01;2;Menikah;Ya;6;28;11.4;62.3;Lengkap;Eksklusif;Perempuan;Tidak;Cukup;5;Edukasi Gizi
+26;SD;Wirausaha;1.51;2;Menikah;Ya;0;27;16.0;107.3;Lengkap;Tidak Eksklusif;Perempuan;Tidak;Cukup;4;Kontrol Rutin ke Puskesmas
+32;SMA;IRT;12.98;3;Menikah;Tidak;0;7;17.4;102.1;Lengkap;Eksklusif;Laki-laki;Tidak;Kurang;1;Pemberian Makanan Tambahan
+30;SMA;Wirausaha;4.88;1;Menikah;Ya;5;36;7.2;74.8;Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;2;Pemberian Makanan Tambahan
+18;SMP;PNS;4.01;2;Menikah;Ya;4;16;17.5;63.9;Lengkap;Eksklusif;Laki-laki;Ya;Cukup;3;Edukasi Gizi
+42;S1;IRT;2.23;4;Menikah;Tidak;8;33;13.1;68.5;Lengkap;Eksklusif;Laki-laki;Tidak;Banyak;2;Pemberian Makanan Tambahan
+24;D3;Guru;2.51;1;Menikah;Ya;1;51;17.7;66.3;Tidak Lengkap;Tidak Eksklusif;Perempuan;Tidak;Kurang;2;Pemberian Makanan Tambahan
+26;SMP;Wirausaha;11.9;1;Menikah;Ya;7;37;11.5;66.2;Lengkap;Eksklusif;Perempuan;Tidak;Cukup;2;Pemberian Makanan Tambahan
+41;S1;Buruh;13.92;2;Menikah;Ya;4;10;10.7;85.9;Lengkap;Tidak Eksklusif;Perempuan;Ya;Banyak;3;Lainnya
+18;S1;IRT;8.25;2;Menikah;Ya;1;43;18.7;72.3;Lengkap;Tidak Eksklusif;Laki-laki;Ya;Banyak;3;Kontrol Rutin ke Puskesmas
+29;S1;Buruh;9.86;1;Belum Menikah;Ya;9;15;8.8;77.9;Lengkap;Eksklusif;Perempuan;Tidak;Kurang;3;Pemberian Makanan Tambahan
+25;SD;Guru;13.88;1;Menikah;Ya;5;45;17.7;109.5;Tidak Lengkap;Eksklusif;Laki-laki;Tidak;Banyak;3;Edukasi Gizi
+41;D3;PNS;0.84;3;Menikah;Ya;9;51;12.3;94.2;Lengkap;Tidak Eksklusif;Perempuan;Ya;Kurang;2;Pemberian Makanan Tambahan
+28;SMA;Petani;6.8;4;Menikah;Tidak;7;29;12.7;107.4;Tidak Lengkap;Tidak Eksklusif;Laki-laki;Tidak;Banyak;5;Lainnya
+36;D3;Buruh;19.48;3;Cerai;Ya;3;40;9.6;67.1;Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;5;Lainnya
+34;S1;IRT;11.81;2;Menikah;Ya;1;49;13.6;79.1;Lengkap;Eksklusif;Perempuan;Tidak;Cukup;3;Kontrol Rutin ke Puskesmas
+25;SMA;Petani;5.46;3;Menikah;Ya;4;53;9.9;87.7;Lengkap;Eksklusif;Perempuan;Tidak;Cukup;4;Lainnya
+20;D3;Buruh;10.67;3;Menikah;Ya;1;28;5.6;63.8;Tidak Lengkap;Eksklusif;Laki-laki;Tidak;Kurang;1;Pemberian Makanan Tambahan
+20;D3;IRT;7.18;3;Menikah;Ya;1;22;9.1;60.2;Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;4;Kontrol Rutin ke Puskesmas
+18;D3;Wirausaha;10.88;3;Menikah;Tidak;5;6;5.1;93.5;Lengkap;Tidak Eksklusif;Perempuan;Tidak;Cukup;4;Lainnya
+44;SMA;Petani;2.95;4;Menikah;Tidak;9;36;19.7;92.1;Lengkap;Eksklusif;Laki-laki;Tidak;Banyak;4;Lainnya
+22;SMP;Petani;3.09;4;Cerai;Ya;8;36;19.5;80.5;Lengkap;Eksklusif;Laki-laki;Tidak;Banyak;5;Edukasi Gizi
+27;SMA;Wirausaha;3.3;1;Menikah;Tidak;3;47;10.9;84.5;Tidak Lengkap;Eksklusif;Laki-laki;Ya;Banyak;1;Pemberian Makanan Tambahan
+24;D3;Guru;18.83;2;Menikah;Ya;5;47;15.9;80.8;Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;4;Lainnya
+43;SMP;Wirausaha;14.79;3;Menikah;Ya;6;58;10.2;61.2;Lengkap;Eksklusif;Perempuan;Tidak;Banyak;3;Edukasi Gizi
+26;SMA;Buruh;3.67;1;Cerai;Ya;5;39;15.1;76.8;Tidak Lengkap;Eksklusif;Perempuan;Tidak;Banyak;5;Lainnya
+24;SMP;IRT;4.17;1;Menikah;Tidak;7;14;17.1;68.9;Lengkap;Eksklusif;Perempuan;Tidak;Cukup;3;Edukasi Gizi
+26;SMA;Buruh;14.75;1;Cerai;Ya;3;27;19.2;64.9;Tidak Lengkap;Eksklusif;Perempuan;Tidak;Cukup;3;Lainnya
+25;D3;Buruh;3.55;4;Menikah;Ya;0;18;11.0;107.8;Lengkap;Eksklusif;Laki-laki;Ya;Cukup;4;Kontrol Rutin ke Puskesmas
+29;D3;PNS;5.07;3;Menikah;Tidak;6;30;16.7;90.0;Lengkap;Tidak Eksklusif;Laki-laki;Tidak;Banyak;3;Lainnya
+19;SMP;IRT;19.29;3;Menikah;Ya;2;53;9.0;96.4;Tidak Lengkap;Eksklusif;Laki-laki;Tidak;Banyak;1;Pemberian Makanan Tambahan
+18;S1;IRT;5.48;2;Menikah;Ya;5;23;19.9;75.8;Lengkap;Eksklusif;Laki-laki;Tidak;Kurang;3;Pemberian Makanan Tambahan
+33;SMA;IRT;13.4;3;Menikah;Ya;1;56;5.4;79.7;Lengkap;Eksklusif;Laki-laki;Ya;Banyak;4;Kontrol Rutin ke Puskesmas
+40;SMA;IRT;19.58;3;Menikah;Ya;8;17;14.1;71.8;Lengkap;Tidak Eksklusif;Perempuan;Tidak;Kurang;3;Pemberian Makanan Tambahan
+40;D3;PNS;7.8;1;Menikah;Ya;0;45;14.9;64.8;Lengkap;Eksklusif;Perempuan;Tidak;Kurang;5;Pemberian Makanan Tambahan
+41;SMA;IRT;0.84;2;Menikah;Ya;5;22;15.3;69.0;Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;5;Lainnya
+22;SMA;Petani;5.26;3;Menikah;Ya;5;20;6.8;99.9;Tidak Lengkap;Tidak Eksklusif;Perempuan;Tidak;Banyak;5;Lainnya
+20;D3;Buruh;16.7;4;Menikah;Tidak;4;47;19.1;93.9;Lengkap;Eksklusif;Perempuan;Tidak;Kurang;2;Pemberian Makanan Tambahan
+29;SMP;Guru;17.36;3;Menikah;Ya;4;20;7.7;87.3;Lengkap;Eksklusif;Perempuan;Ya;Cukup;5;Edukasi Gizi
+25;SMA;Wirausaha;15.49;1;Menikah;Ya;0;20;14.3;83.8;Tidak Lengkap;Eksklusif;Perempuan;Tidak;Cukup;5;Kontrol Rutin ke Puskesmas
+39;SMA;Buruh;2.71;4;Menikah;Ya;9;44;8.3;106.1;Lengkap;Eksklusif;Perempuan;Ya;Cukup;2;Pemberian Makanan Tambahan
+44;SMP;PNS;16.01;1;Belum Menikah;Ya;4;18;9.6;63.6;Lengkap;Eksklusif;Perempuan;Tidak;Banyak;5;Edukasi Gizi
+20;SMA;Buruh;18.41;3;Menikah;Ya;1;22;13.2;74.0;Lengkap;Tidak Eksklusif;Perempuan;Tidak;Banyak;4;Kontrol Rutin ke Puskesmas
+18;SMA;Buruh;12.21;4;Menikah;Ya;6;37;11.3;77.5;Tidak Lengkap;Eksklusif;Perempuan;Tidak;Cukup;5;Lainnya
+20;D3;Wirausaha;18.85;2;Belum Menikah;Ya;2;14;7.4;99.1;Lengkap;Tidak Eksklusif;Laki-laki;Tidak;Cukup;5;Kontrol Rutin ke Puskesmas
+22;D3;IRT;16.62;2;Menikah;Ya;3;45;7.6;109.6;Tidak Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;2;Pemberian Makanan Tambahan
+32;D3;IRT;13.51;4;Menikah;Ya;2;25;11.3;72.0;Tidak Lengkap;Tidak Eksklusif;Perempuan;Tidak;Cukup;4;Kontrol Rutin ke Puskesmas
+31;D3;PNS;11.76;4;Menikah;Ya;2;31;16.4;103.7;Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;3;Kontrol Rutin ke Puskesmas
+20;SMA;IRT;7.3;1;Belum Menikah;Ya;3;32;18.5;101.5;Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;1;Pemberian Makanan Tambahan
+18;SMP;Wirausaha;3.61;4;Menikah;Ya;4;26;6.3;71.2;Tidak Lengkap;Eksklusif;Perempuan;Tidak;Kurang;4;Pemberian Makanan Tambahan
+22;SMA;Buruh;12.3;1;Menikah;Ya;0;23;10.9;80.0;Lengkap;Tidak Eksklusif;Laki-laki;Ya;Banyak;3;Kontrol Rutin ke Puskesmas
+43;SMA;Wirausaha;6.7;3;Menikah;Ya;3;18;6.5;80.5;Tidak Lengkap;Eksklusif;Perempuan;Tidak;Cukup;4;Lainnya
+40;SD;PNS;17.4;1;Menikah;Ya;7;21;5.2;108.9;Tidak Lengkap;Eksklusif;Perempuan;Tidak;Banyak;3;Edukasi Gizi
+31;SMA;Petani;19.87;4;Menikah;Tidak;9;14;14.9;69.0;Lengkap;Eksklusif;Perempuan;Ya;Cukup;3;Lainnya
+24;SMA;Wirausaha;15.17;4;Menikah;Ya;6;17;14.0;100.0;Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;4;Lainnya
+44;D3;Buruh;2.26;3;Menikah;Ya;8;49;7.4;76.7;Tidak Lengkap;Eksklusif;Laki-laki;Tidak;Kurang;2;Pemberian Makanan Tambahan
+26;S1;Wirausaha;6.13;4;Menikah;Tidak;4;43;8.5;96.5;Tidak Lengkap;Eksklusif;Perempuan;Ya;Banyak;4;Lainnya
+32;SMA;IRT;2.63;4;Menikah;Ya;9;24;5.4;81.0;Lengkap;Eksklusif;Perempuan;Tidak;Kurang;4;Pemberian Makanan Tambahan
+32;SMA;Buruh;13.18;2;Menikah;Ya;3;12;17.5;88.9;Lengkap;Eksklusif;Perempuan;Tidak;Banyak;3;Lainnya
+43;SD;IRT;15.42;2;Menikah;Ya;7;40;19.6;101.6;Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;1;Pemberian Makanan Tambahan
+27;S1;Guru;18.55;3;Menikah;Ya;8;53;7.0;100.2;Lengkap;Eksklusif;Laki-laki;Ya;Banyak;3;Lainnya
+30;S1;IRT;9.04;1;Menikah;Tidak;6;23;8.5;103.3;Lengkap;Tidak Eksklusif;Perempuan;Tidak;Kurang;5;Pemberian Makanan Tambahan
+36;SMP;Wirausaha;18.08;2;Menikah;Ya;6;21;18.0;63.0;Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;4;Edukasi Gizi
+24;SMA;Wirausaha;17.62;1;Menikah;Tidak;4;44;18.9;94.6;Lengkap;Eksklusif;Perempuan;Tidak;Cukup;4;Lainnya
+34;SD;Wirausaha;6.69;4;Menikah;Ya;3;9;11.3;67.0;Lengkap;Eksklusif;Laki-laki;Tidak;Kurang;2;Pemberian Makanan Tambahan
+37;SMP;IRT;17.44;2;Menikah;Ya;9;30;5.8;80.8;Lengkap;Tidak Eksklusif;Laki-laki;Tidak;Banyak;3;Edukasi Gizi
+21;SMP;Petani;7.83;3;Menikah;Ya;0;37;5.6;87.4;Lengkap;Tidak Eksklusif;Laki-laki;Tidak;Banyak;2;Pemberian Makanan Tambahan
+22;SMP;Buruh;6.29;3;Menikah;Ya;9;45;13.6;80.1;Lengkap;Tidak Eksklusif;Laki-laki;Tidak;Kurang;4;Pemberian Makanan Tambahan
+40;S1;Buruh;13.16;3;Cerai;Ya;9;18;10.9;86.0;Lengkap;Eksklusif;Perempuan;Tidak;Cukup;3;Lainnya
+24;SMA;Buruh;6.9;2;Cerai;Tidak;6;50;5.4;109.8;Lengkap;Eksklusif;Perempuan;Tidak;Banyak;3;Lainnya
+30;SMA;Buruh;12.79;1;Menikah;Ya;0;22;13.7;66.8;Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;5;Kontrol Rutin ke Puskesmas
+32;D3;PNS;12.39;4;Menikah;Ya;0;54;5.2;93.8;Lengkap;Eksklusif;Perempuan;Tidak;Cukup;5;Kontrol Rutin ke Puskesmas
+28;S1;Guru;11.49;1;Belum Menikah;Ya;4;42;16.8;79.8;Lengkap;Eksklusif;Laki-laki;Ya;Banyak;1;Pemberian Makanan Tambahan
+21;S1;Buruh;7.92;1;Menikah;Ya;8;11;9.6;66.7;Tidak Lengkap;Tidak Eksklusif;Perempuan;Tidak;Banyak;5;Lainnya
+30;SD;IRT;11.2;4;Menikah;Ya;5;24;5.6;67.9;Lengkap;Tidak Eksklusif;Laki-laki;Tidak;Banyak;3;Edukasi Gizi
+24;SMA;IRT;12.13;4;Menikah;Ya;2;18;13.8;107.5;Tidak Lengkap;Tidak Eksklusif;Perempuan;Tidak;Cukup;5;Kontrol Rutin ke Puskesmas
+44;SMP;IRT;11.14;2;Menikah;Ya;2;31;11.0;104.0;Lengkap;Eksklusif;Perempuan;Tidak;Kurang;1;Pemberian Makanan Tambahan
+36;SMA;Wirausaha;9.17;2;Menikah;Ya;6;19;19.6;105.4;Lengkap;Eksklusif;Perempuan;Ya;Kurang;4;Pemberian Makanan Tambahan
+39;SMP;IRT;0.79;2;Menikah;Ya;5;36;13.2;109.6;Tidak Lengkap;Eksklusif;Perempuan;Tidak;Cukup;5;Edukasi Gizi
+19;SMA;IRT;11.95;2;Menikah;Tidak;8;59;9.1;70.4;Lengkap;Eksklusif;Perempuan;Ya;Banyak;3;Lainnya
+27;SMA;Buruh;3.78;2;Menikah;Tidak;5;9;15.6;77.8;Lengkap;Tidak Eksklusif;Perempuan;Tidak;Kurang;4;Pemberian Makanan Tambahan
+30;SMP;Wirausaha;13.03;4;Menikah;Ya;4;44;9.1;93.5;Lengkap;Eksklusif;Perempuan;Tidak;Cukup;3;Edukasi Gizi
+42;SMP;Wirausaha;15.31;1;Menikah;Ya;9;13;18.6;84.2;Lengkap;Eksklusif;Perempuan;Tidak;Banyak;4;Edukasi Gizi
+38;SMA;PNS;10.26;2;Menikah;Tidak;6;30;10.6;80.9;Lengkap;Eksklusif;Perempuan;Tidak;Kurang;3;Pemberian Makanan Tambahan
+23;SMP;Petani;11.08;2;Menikah;Ya;0;18;13.2;77.9;Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;5;Kontrol Rutin ke Puskesmas
+29;SMA;Guru;19.05;1;Menikah;Tidak;6;37;5.8;89.7;Lengkap;Tidak Eksklusif;Perempuan;Tidak;Cukup;5;Lainnya
+29;SD;IRT;17.02;2;Menikah;Ya;2;43;11.4;88.8;Lengkap;Eksklusif;Laki-laki;Ya;Cukup;1;Pemberian Makanan Tambahan
+37;SMP;Wirausaha;18.33;1;Menikah;Ya;8;43;17.5;68.1;Tidak Lengkap;Tidak Eksklusif;Perempuan;Ya;Banyak;4;Edukasi Gizi
+28;SMA;PNS;16.37;1;Cerai;Tidak;5;33;17.1;83.6;Lengkap;Eksklusif;Laki-laki;Tidak;Banyak;1;Pemberian Makanan Tambahan
+43;SMA;Petani;2.62;4;Menikah;Tidak;8;58;8.4;87.7;Lengkap;Eksklusif;Perempuan;Tidak;Cukup;2;Pemberian Makanan Tambahan
+40;SMP;PNS;3.41;3;Belum Menikah;Ya;4;35;8.4;88.5;Tidak Lengkap;Tidak Eksklusif;Laki-laki;Tidak;Banyak;5;Edukasi Gizi
+42;SMP;PNS;10.77;4;Menikah;Ya;6;8;17.3;70.5;Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;4;Edukasi Gizi
+24;SD;Petani;5.3;3;Menikah;Ya;3;33;19.0;97.1;Lengkap;Tidak Eksklusif;Laki-laki;Tidak;Cukup;1;Pemberian Makanan Tambahan
+18;S1;Wirausaha;9.8;3;Menikah;Ya;6;8;6.4;61.3;Lengkap;Eksklusif;Perempuan;Tidak;Cukup;1;Pemberian Makanan Tambahan
+18;SMA;Wirausaha;8.19;3;Cerai;Ya;0;50;11.8;77.7;Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;2;Pemberian Makanan Tambahan
+42;SMA;Petani;11.21;2;Menikah;Ya;6;59;10.1;99.0;Lengkap;Eksklusif;Laki-laki;Ya;Cukup;1;Pemberian Makanan Tambahan
+44;S1;Petani;15.06;4;Menikah;Tidak;7;39;18.1;88.2;Tidak Lengkap;Tidak Eksklusif;Perempuan;Ya;Kurang;3;Pemberian Makanan Tambahan
+42;SD;IRT;14.45;3;Menikah;Ya;4;21;6.3;73.1;Tidak Lengkap;Eksklusif;Perempuan;Tidak;Cukup;5;Edukasi Gizi
+37;D3;Petani;10.66;1;Menikah;Ya;1;27;8.2;94.7;Lengkap;Tidak Eksklusif;Laki-laki;Tidak;Banyak;1;Pemberian Makanan Tambahan
+30;SMA;IRT;16.54;2;Menikah;Ya;4;37;16.3;88.4;Lengkap;Eksklusif;Laki-laki;Tidak;Banyak;1;Pemberian Makanan Tambahan
+26;SMP;Guru;8.9;4;Cerai;Ya;5;43;5.8;99.8;Lengkap;Eksklusif;Laki-laki;Ya;Cukup;2;Pemberian Makanan Tambahan
+20;SMA;Wirausaha;17.99;3;Menikah;Ya;1;13;12.4;96.8;Lengkap;Eksklusif;Perempuan;Tidak;Banyak;3;Kontrol Rutin ke Puskesmas
+24;D3;Guru;1.89;1;Menikah;Ya;5;13;11.6;90.5;Tidak Lengkap;Eksklusif;Laki-laki;Tidak;Banyak;1;Pemberian Makanan Tambahan
+23;SMA;Buruh;19.12;4;Menikah;Ya;5;11;10.0;84.4;Lengkap;Eksklusif;Laki-laki;Tidak;Banyak;5;Lainnya
+25;S1;Buruh;13.27;4;Menikah;Tidak;0;19;10.9;66.7;Lengkap;Tidak Eksklusif;Laki-laki;Tidak;Cukup;5;Kontrol Rutin ke Puskesmas
+44;SMA;IRT;7.91;2;Menikah;Tidak;0;37;12.9;73.1;Tidak Lengkap;Eksklusif;Laki-laki;Tidak;Kurang;1;Pemberian Makanan Tambahan
+26;D3;PNS;4.34;4;Menikah;Ya;9;40;7.4;81.0;Lengkap;Eksklusif;Perempuan;Tidak;Banyak;3;Lainnya
+22;SMA;IRT;9.84;2;Menikah;Tidak;2;15;13.6;90.0;Lengkap;Eksklusif;Laki-laki;Ya;Cukup;5;Kontrol Rutin ke Puskesmas
+18;D3;IRT;4.29;3;Belum Menikah;Ya;9;8;17.1;85.7;Lengkap;Eksklusif;Laki-laki;Ya;Cukup;5;Lainnya
+36;SMA;Buruh;3.74;2;Menikah;Ya;9;17;16.4;74.4;Tidak Lengkap;Eksklusif;Laki-laki;Tidak;Banyak;3;Lainnya
+27;SD;PNS;12.54;1;Menikah;Ya;2;54;7.3;60.3;Lengkap;Eksklusif;Laki-laki;Tidak;Kurang;3;Pemberian Makanan Tambahan
+29;SD;PNS;10.7;2;Menikah;Ya;3;36;7.2;84.8;Tidak Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;1;Pemberian Makanan Tambahan
+41;SMP;IRT;13.57;1;Belum Menikah;Ya;1;34;9.0;74.3;Lengkap;Eksklusif;Perempuan;Tidak;Cukup;4;Kontrol Rutin ke Puskesmas
+32;SD;Buruh;18.63;2;Menikah;Tidak;8;10;10.4;96.7;Tidak Lengkap;Eksklusif;Perempuan;Tidak;Cukup;2;Pemberian Makanan Tambahan
+44;SD;Guru;10.88;4;Menikah;Ya;9;57;11.1;61.2;Tidak Lengkap;Eksklusif;Perempuan;Ya;Banyak;4;Edukasi Gizi
+39;SMA;Petani;11.83;3;Cerai;Tidak;6;30;15.2;89.2;Lengkap;Eksklusif;Perempuan;Tidak;Cukup;4;Lainnya
+41;SMA;Petani;2.25;1;Menikah;Ya;6;46;5.9;107.1;Lengkap;Eksklusif;Perempuan;Tidak;Banyak;5;Lainnya
+26;D3;Buruh;14.49;2;Menikah;Ya;5;36;5.5;68.7;Lengkap;Eksklusif;Laki-laki;Tidak;Kurang;3;Pemberian Makanan Tambahan
+37;S1;Guru;8.3;2;Menikah;Tidak;2;26;10.9;83.6;Lengkap;Tidak Eksklusif;Perempuan;Tidak;Cukup;5;Kontrol Rutin ke Puskesmas
+34;SMA;Buruh;19.55;2;Cerai;Ya;5;25;15.5;64.6;Lengkap;Tidak Eksklusif;Perempuan;Tidak;Cukup;2;Pemberian Makanan Tambahan
+34;D3;Wirausaha;16.55;4;Menikah;Ya;7;44;7.9;91.3;Lengkap;Tidak Eksklusif;Perempuan;Ya;Banyak;1;Pemberian Makanan Tambahan
+43;D3;Guru;10.69;4;Menikah;Ya;7;27;14.6;87.5;Lengkap;Eksklusif;Perempuan;Tidak;Cukup;2;Pemberian Makanan Tambahan
+37;SMA;Buruh;2.9;1;Menikah;Ya;8;9;8.9;80.4;Lengkap;Tidak Eksklusif;Laki-laki;Tidak;Cukup;5;Lainnya
+29;SMP;Buruh;17.26;1;Menikah;Ya;0;18;18.3;86.1;Lengkap;Tidak Eksklusif;Perempuan;Tidak;Cukup;5;Kontrol Rutin ke Puskesmas
+24;SMP;Guru;16.1;4;Menikah;Ya;0;50;18.4;104.8;Lengkap;Tidak Eksklusif;Perempuan;Ya;Cukup;5;Kontrol Rutin ke Puskesmas
+19;SMP;Wirausaha;4.1;1;Menikah;Ya;2;47;9.5;69.8;Lengkap;Eksklusif;Perempuan;Tidak;Cukup;5;Kontrol Rutin ke Puskesmas
+20;SMP;Guru;6.26;3;Menikah;Tidak;2;55;8.4;61.1;Tidak Lengkap;Eksklusif;Laki-laki;Tidak;Kurang;4;Pemberian Makanan Tambahan
+34;SMP;Petani;15.97;3;Menikah;Ya;9;54;11.2;103.1;Lengkap;Tidak Eksklusif;Laki-laki;Tidak;Cukup;1;Pemberian Makanan Tambahan
+22;D3;PNS;4.11;4;Menikah;Ya;7;25;8.6;88.9;Lengkap;Eksklusif;Laki-laki;Tidak;Kurang;4;Pemberian Makanan Tambahan
+34;D3;Guru;18.4;1;Menikah;Ya;9;57;15.1;104.5;Tidak Lengkap;Eksklusif;Perempuan;Tidak;Kurang;5;Pemberian Makanan Tambahan
+41;SD;Buruh;8.78;2;Cerai;Tidak;0;18;17.4;89.8;Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;3;Kontrol Rutin ke Puskesmas
+34;SMP;Wirausaha;2.2;3;Menikah;Ya;1;22;15.1;100.5;Tidak Lengkap;Eksklusif;Laki-laki;Tidak;Banyak;4;Kontrol Rutin ke Puskesmas
+44;SD;Buruh;16.41;4;Menikah;Ya;1;59;17.4;81.5;Lengkap;Eksklusif;Perempuan;Tidak;Cukup;5;Kontrol Rutin ke Puskesmas
+34;SMA;Buruh;7.78;1;Menikah;Ya;2;41;11.0;97.5;Lengkap;Eksklusif;Laki-laki;Ya;Kurang;5;Pemberian Makanan Tambahan
+19;SMA;Wirausaha;10.77;4;Menikah;Ya;5;38;7.3;105.7;Lengkap;Eksklusif;Perempuan;Tidak;Banyak;1;Pemberian Makanan Tambahan
+19;D3;IRT;2.69;2;Menikah;Tidak;0;6;16.1;88.6;Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;2;Pemberian Makanan Tambahan
+39;SMA;IRT;0.55;3;Menikah;Ya;1;20;10.4;69.0;Lengkap;Eksklusif;Perempuan;Ya;Kurang;4;Pemberian Makanan Tambahan
+40;D3;Buruh;12.94;4;Menikah;Ya;0;18;15.1;73.4;Lengkap;Eksklusif;Perempuan;Tidak;Cukup;4;Kontrol Rutin ke Puskesmas
+22;S1;Wirausaha;10.55;4;Menikah;Ya;4;22;9.1;69.9;Lengkap;Eksklusif;Perempuan;Tidak;Cukup;4;Lainnya
+18;SD;IRT;12.07;4;Menikah;Ya;6;29;6.2;72.3;Lengkap;Eksklusif;Perempuan;Tidak;Banyak;5;Edukasi Gizi
+18;D3;IRT;15.98;2;Menikah;Tidak;7;13;19.9;75.3;Lengkap;Tidak Eksklusif;Laki-laki;Tidak;Banyak;1;Pemberian Makanan Tambahan
+36;SMA;IRT;13.11;4;Menikah;Tidak;9;55;7.3;87.8;Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;5;Lainnya
+19;SMA;IRT;3.91;2;Menikah;Ya;0;32;19.8;89.4;Lengkap;Eksklusif;Laki-laki;Tidak;Banyak;5;Kontrol Rutin ke Puskesmas
+38;SMA;IRT;7.54;2;Menikah;Tidak;6;50;19.7;81.3;Lengkap;Eksklusif;Perempuan;Tidak;Banyak;3;Lainnya
+29;D3;Buruh;18.16;2;Menikah;Ya;4;28;16.9;90.8;Tidak Lengkap;Tidak Eksklusif;Perempuan;Tidak;Kurang;1;Pemberian Makanan Tambahan
+43;SMA;Guru;15.51;3;Cerai;Ya;9;51;14.9;64.1;Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;4;Lainnya
+23;D3;IRT;11.35;3;Menikah;Ya;0;13;13.7;64.4;Tidak Lengkap;Eksklusif;Perempuan;Tidak;Kurang;2;Pemberian Makanan Tambahan
+40;S1;Buruh;5.49;4;Menikah;Ya;2;13;18.0;68.6;Tidak Lengkap;Eksklusif;Laki-laki;Tidak;Kurang;4;Pemberian Makanan Tambahan
+21;SMA;IRT;6.39;4;Menikah;Ya;6;31;9.3;85.9;Lengkap;Eksklusif;Perempuan;Tidak;Banyak;5;Lainnya
+40;S1;Buruh;14.77;3;Menikah;Tidak;9;52;12.0;70.7;Lengkap;Tidak Eksklusif;Perempuan;Tidak;Banyak;1;Pemberian Makanan Tambahan
+28;SMA;Guru;17.1;1;Menikah;Ya;0;18;14.3;74.2;Lengkap;Tidak Eksklusif;Laki-laki;Ya;Cukup;1;Pemberian Makanan Tambahan
+41;SMA;PNS;13.59;3;Cerai;Tidak;6;44;11.2;80.0;Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;1;Pemberian Makanan Tambahan
+44;SMA;IRT;16.29;2;Menikah;Ya;4;42;11.4;100.6;Lengkap;Eksklusif;Laki-laki;Tidak;Banyak;3;Lainnya
+34;SD;Buruh;15.45;3;Menikah;Tidak;0;54;10.0;60.7;Lengkap;Eksklusif;Perempuan;Tidak;Cukup;4;Kontrol Rutin ke Puskesmas
+23;D3;IRT;3.42;2;Menikah;Ya;0;33;13.5;92.5;Lengkap;Eksklusif;Perempuan;Ya;Banyak;3;Kontrol Rutin ke Puskesmas
+41;SMA;Wirausaha;8.77;4;Cerai;Ya;0;30;17.8;93.4;Lengkap;Eksklusif;Laki-laki;Tidak;Kurang;2;Pemberian Makanan Tambahan
+22;SMA;PNS;3.48;1;Menikah;Ya;8;21;8.0;99.9;Lengkap;Eksklusif;Laki-laki;Tidak;Banyak;5;Lainnya
+37;S1;Guru;5.09;4;Menikah;Tidak;2;7;19.0;106.6;Lengkap;Eksklusif;Laki-laki;Tidak;Banyak;3;Kontrol Rutin ke Puskesmas
+19;SMP;IRT;17.45;2;Menikah;Ya;4;59;15.3;61.0;Tidak Lengkap;Eksklusif;Perempuan;Tidak;Banyak;3;Edukasi Gizi
+23;SMA;Wirausaha;9.72;2;Menikah;Tidak;9;23;17.3;67.7;Lengkap;Tidak Eksklusif;Perempuan;Tidak;Kurang;5;Pemberian Makanan Tambahan
+39;SMA;IRT;10.94;2;Menikah;Ya;8;22;13.3;104.3;Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;1;Pemberian Makanan Tambahan
+28;D3;IRT;3.98;1;Belum Menikah;Ya;5;35;16.7;82.9;Lengkap;Tidak Eksklusif;Perempuan;Tidak;Kurang;5;Pemberian Makanan Tambahan
+33;SMA;Buruh;6.59;3;Menikah;Tidak;8;44;5.2;88.2;Lengkap;Tidak Eksklusif;Perempuan;Ya;Cukup;4;Lainnya
+33;D3;IRT;4.99;4;Cerai;Ya;7;18;17.3;93.2;Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;5;Lainnya
+18;D3;Wirausaha;4.52;4;Menikah;Ya;7;37;5.6;94.0;Lengkap;Tidak Eksklusif;Laki-laki;Tidak;Banyak;1;Pemberian Makanan Tambahan
+26;SD;PNS;12.94;3;Menikah;Ya;0;55;18.3;106.6;Lengkap;Eksklusif;Perempuan;Tidak;Cukup;5;Kontrol Rutin ke Puskesmas
+44;SD;IRT;5.51;4;Menikah;Tidak;8;34;19.9;109.8;Lengkap;Eksklusif;Perempuan;Tidak;Cukup;3;Edukasi Gizi
+23;SMA;Guru;12.82;1;Menikah;Ya;5;51;9.4;96.0;Tidak Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;2;Pemberian Makanan Tambahan
+33;SMA;Wirausaha;1.64;4;Cerai;Tidak;8;35;8.2;74.4;Tidak Lengkap;Tidak Eksklusif;Laki-laki;Tidak;Banyak;3;Lainnya
+20;SMP;Wirausaha;3.26;2;Menikah;Ya;2;23;16.5;104.0;Lengkap;Eksklusif;Laki-laki;Tidak;Kurang;2;Pemberian Makanan Tambahan
+37;SMA;Petani;5.85;3;Menikah;Tidak;2;18;8.8;62.5;Lengkap;Eksklusif;Perempuan;Tidak;Banyak;5;Kontrol Rutin ke Puskesmas
+44;SMA;Wirausaha;12.14;1;Menikah;Tidak;5;48;18.0;71.6;Lengkap;Tidak Eksklusif;Laki-laki;Ya;Kurang;4;Pemberian Makanan Tambahan
+21;SMA;Wirausaha;13.68;3;Menikah;Ya;8;26;6.5;104.9;Lengkap;Eksklusif;Laki-laki;Tidak;Banyak;5;Lainnya
+36;SMA;PNS;9.13;1;Menikah;Ya;6;35;6.9;72.8;Lengkap;Eksklusif;Perempuan;Ya;Cukup;1;Pemberian Makanan Tambahan
+43;SMA;IRT;9.19;2;Menikah;Ya;2;26;19.7;71.0;Lengkap;Tidak Eksklusif;Perempuan;Tidak;Cukup;5;Kontrol Rutin ke Puskesmas
+20;SMA;Buruh;14.63;3;Menikah;Ya;2;53;15.1;66.9;Tidak Lengkap;Tidak Eksklusif;Laki-laki;Ya;Cukup;2;Pemberian Makanan Tambahan
+36;SMA;Wirausaha;0.81;4;Cerai;Ya;1;22;17.7;103.0;Lengkap;Tidak Eksklusif;Laki-laki;Ya;Cukup;3;Kontrol Rutin ke Puskesmas
+37;SMP;IRT;7.15;1;Menikah;Ya;8;45;9.9;85.0;Lengkap;Tidak Eksklusif;Perempuan;Tidak;Cukup;4;Edukasi Gizi
+24;SMA;Wirausaha;16.46;3;Menikah;Ya;2;24;15.1;93.7;Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;5;Kontrol Rutin ke Puskesmas
+37;SMA;IRT;12.26;4;Menikah;Ya;4;57;13.9;72.0;Lengkap;Tidak Eksklusif;Laki-laki;Tidak;Cukup;5;Lainnya
+26;D3;IRT;7.08;3;Menikah;Ya;8;20;14.0;97.9;Lengkap;Eksklusif;Perempuan;Ya;Cukup;3;Lainnya
+18;SMA;Buruh;18.16;3;Menikah;Ya;7;14;15.2;98.0;Tidak Lengkap;Eksklusif;Laki-laki;Tidak;Kurang;4;Pemberian Makanan Tambahan
+25;S1;IRT;15.57;3;Menikah;Tidak;1;57;13.6;75.6;Lengkap;Eksklusif;Perempuan;Ya;Banyak;5;Kontrol Rutin ke Puskesmas
+24;SMA;Wirausaha;5.67;1;Cerai;Ya;2;15;11.4;80.5;Lengkap;Eksklusif;Perempuan;Tidak;Cukup;5;Kontrol Rutin ke Puskesmas
+35;SMP;Wirausaha;13.08;4;Menikah;Ya;1;49;9.1;70.5;Lengkap;Tidak Eksklusif;Laki-laki;Tidak;Cukup;2;Pemberian Makanan Tambahan
+25;D3;Wirausaha;12.12;2;Menikah;Ya;7;36;16.5;108.8;Lengkap;Tidak Eksklusif;Laki-laki;Tidak;Cukup;2;Pemberian Makanan Tambahan
+18;SMA;Petani;8.32;1;Menikah;Tidak;5;58;8.4;92.3;Lengkap;Eksklusif;Perempuan;Tidak;Cukup;1;Pemberian Makanan Tambahan
+28;SMA;IRT;7.66;1;Menikah;Tidak;5;28;15.4;106.7;Lengkap;Eksklusif;Perempuan;Tidak;Cukup;3;Lainnya
+42;SD;Guru;7.2;1;Menikah;Tidak;8;57;8.5;75.2;Lengkap;Eksklusif;Perempuan;Tidak;Banyak;4;Edukasi Gizi
+42;SMA;Guru;12.53;2;Menikah;Tidak;7;35;14.4;99.1;Tidak Lengkap;Tidak Eksklusif;Perempuan;Tidak;Banyak;5;Lainnya
+35;SMA;Guru;9.13;4;Menikah;Ya;3;38;16.2;98.3;Lengkap;Tidak Eksklusif;Laki-laki;Tidak;Banyak;5;Lainnya
+40;SMA;IRT;16.72;4;Menikah;Tidak;3;57;8.3;94.6;Lengkap;Eksklusif;Perempuan;Tidak;Cukup;1;Pemberian Makanan Tambahan
+27;D3;Guru;13.56;4;Menikah;Ya;8;14;5.9;108.3;Lengkap;Eksklusif;Laki-laki;Ya;Cukup;5;Lainnya
+20;SMP;Buruh;1.86;3;Menikah;Ya;0;59;7.0;79.7;Tidak Lengkap;Eksklusif;Laki-laki;Tidak;Kurang;3;Pemberian Makanan Tambahan
+24;SMA;Wirausaha;12.98;3;Belum Menikah;Tidak;1;52;14.1;66.5;Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;1;Pemberian Makanan Tambahan
+33;SMA;Wirausaha;5.79;3;Menikah;Ya;1;6;17.7;93.6;Lengkap;Tidak Eksklusif;Laki-laki;Tidak;Banyak;3;Kontrol Rutin ke Puskesmas
+43;SD;Buruh;12.06;2;Menikah;Ya;5;49;5.7;96.5;Lengkap;Eksklusif;Perempuan;Ya;Kurang;1;Pemberian Makanan Tambahan
+33;SMA;Petani;13.76;3;Menikah;Ya;3;40;16.0;88.8;Lengkap;Eksklusif;Laki-laki;Ya;Kurang;5;Pemberian Makanan Tambahan
+42;SMA;PNS;5.0;2;Menikah;Ya;9;16;10.1;70.3;Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;1;Pemberian Makanan Tambahan
+37;SMA;IRT;9.41;4;Menikah;Ya;2;39;12.2;85.2;Tidak Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;2;Pemberian Makanan Tambahan
+34;SMP;Wirausaha;4.21;3;Menikah;Ya;2;21;18.9;75.6;Lengkap;Tidak Eksklusif;Perempuan;Ya;Kurang;4;Pemberian Makanan Tambahan
+19;SMA;Wirausaha;1.52;3;Cerai;Ya;2;14;10.0;81.4;Lengkap;Eksklusif;Perempuan;Tidak;Cukup;5;Kontrol Rutin ke Puskesmas
+18;SD;Buruh;7.88;1;Menikah;Ya;5;37;12.0;92.3;Lengkap;Eksklusif;Laki-laki;Tidak;Kurang;4;Pemberian Makanan Tambahan
+33;D3;Buruh;7.58;2;Menikah;Tidak;7;20;5.2;97.3;Tidak Lengkap;Eksklusif;Laki-laki;Tidak;Banyak;5;Lainnya
+29;SD;IRT;19.91;4;Menikah;Ya;6;17;6.2;71.6;Lengkap;Eksklusif;Laki-laki;Ya;Banyak;4;Edukasi Gizi
+22;SMA;Buruh;9.2;1;Menikah;Ya;3;38;8.9;80.3;Lengkap;Eksklusif;Perempuan;Tidak;Cukup;2;Pemberian Makanan Tambahan
+22;S1;IRT;7.0;1;Menikah;Tidak;3;50;5.4;73.5;Lengkap;Tidak Eksklusif;Perempuan;Tidak;Cukup;4;Lainnya
+44;SMA;Wirausaha;11.82;4;Menikah;Tidak;9;19;14.5;69.9;Lengkap;Eksklusif;Perempuan;Ya;Kurang;1;Pemberian Makanan Tambahan
+40;S1;IRT;2.23;1;Cerai;Ya;1;13;11.4;99.2;Lengkap;Eksklusif;Perempuan;Tidak;Kurang;4;Pemberian Makanan Tambahan
+26;SMP;Buruh;19.25;2;Menikah;Ya;0;13;13.2;105.5;Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;5;Kontrol Rutin ke Puskesmas
+26;D3;Wirausaha;12.88;2;Menikah;Tidak;8;32;7.6;78.5;Lengkap;Eksklusif;Perempuan;Tidak;Banyak;3;Lainnya
+20;SMA;PNS;15.22;3;Menikah;Tidak;1;17;9.4;97.6;Lengkap;Eksklusif;Perempuan;Tidak;Kurang;4;Pemberian Makanan Tambahan
+36;D3;IRT;3.82;1;Cerai;Ya;7;6;15.0;104.8;Lengkap;Eksklusif;Laki-laki;Ya;Cukup;4;Lainnya
+33;SD;IRT;8.48;3;Menikah;Ya;8;48;19.5;102.3;Lengkap;Tidak Eksklusif;Laki-laki;Ya;Banyak;4;Edukasi Gizi
+33;SMP;IRT;8.74;1;Menikah;Ya;3;45;5.8;69.1;Lengkap;Tidak Eksklusif;Perempuan;Tidak;Cukup;5;Edukasi Gizi
+20;SMP;Petani;16.53;2;Menikah;Ya;7;47;18.4;107.8;Tidak Lengkap;Eksklusif;Perempuan;Tidak;Cukup;4;Edukasi Gizi
+37;SMA;IRT;0.52;2;Menikah;Ya;8;56;13.7;78.8;Tidak Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;5;Lainnya
+41;D3;Guru;6.37;2;Menikah;Ya;9;16;13.5;77.0;Tidak Lengkap;Eksklusif;Perempuan;Tidak;Cukup;5;Lainnya
+39;D3;Wirausaha;19.63;1;Menikah;Ya;9;44;12.5;63.1;Tidak Lengkap;Eksklusif;Perempuan;Tidak;Cukup;3;Lainnya
+41;SD;IRT;9.76;2;Menikah;Ya;4;48;6.0;84.3;Lengkap;Tidak Eksklusif;Laki-laki;Tidak;Kurang;1;Pemberian Makanan Tambahan
+18;D3;Wirausaha;7.96;1;Cerai;Ya;6;36;6.3;65.5;Lengkap;Eksklusif;Laki-laki;Ya;Cukup;5;Lainnya
+41;SMA;Wirausaha;2.84;3;Menikah;Tidak;9;22;14.0;72.4;Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;2;Pemberian Makanan Tambahan
+37;SMA;IRT;19.5;1;Menikah;Ya;3;38;10.1;75.8;Lengkap;Tidak Eksklusif;Perempuan;Tidak;Banyak;4;Lainnya
+28;SMP;Wirausaha;0.89;3;Menikah;Ya;0;37;18.8;100.4;Lengkap;Tidak Eksklusif;Laki-laki;Tidak;Cukup;2;Pemberian Makanan Tambahan
+34;D3;Guru;14.88;1;Menikah;Tidak;2;34;11.1;103.8;Lengkap;Eksklusif;Laki-laki;Ya;Banyak;4;Kontrol Rutin ke Puskesmas
+25;SMP;Wirausaha;15.49;3;Menikah;Ya;4;26;7.1;75.1;Tidak Lengkap;Eksklusif;Perempuan;Tidak;Banyak;3;Edukasi Gizi
+21;SMA;Guru;5.25;2;Menikah;Ya;2;26;15.7;102.9;Lengkap;Eksklusif;Perempuan;Tidak;Cukup;5;Kontrol Rutin ke Puskesmas
+23;D3;Petani;13.6;3;Menikah;Ya;6;45;9.4;102.9;Lengkap;Eksklusif;Laki-laki;Tidak;Banyak;1;Pemberian Makanan Tambahan
+25;SD;Guru;2.31;2;Menikah;Ya;8;28;12.9;98.2;Tidak Lengkap;Tidak Eksklusif;Laki-laki;Ya;Cukup;5;Edukasi Gizi
+37;SMA;Wirausaha;5.51;2;Menikah;Tidak;5;11;15.5;67.3;Lengkap;Tidak Eksklusif;Laki-laki;Tidak;Banyak;4;Lainnya
+20;SMP;PNS;15.86;3;Menikah;Ya;9;27;18.5;94.5;Lengkap;Tidak Eksklusif;Perempuan;Tidak;Cukup;1;Pemberian Makanan Tambahan
+33;SMA;Guru;17.36;1;Cerai;Ya;0;55;16.9;107.3;Tidak Lengkap;Eksklusif;Perempuan;Tidak;Banyak;5;Kontrol Rutin ke Puskesmas
+42;SMA;Wirausaha;12.37;1;Menikah;Ya;6;43;15.1;94.1;Lengkap;Tidak Eksklusif;Laki-laki;Tidak;Banyak;1;Pemberian Makanan Tambahan
+20;SMA;IRT;10.38;4;Menikah;Ya;2;42;15.2;76.6;Lengkap;Eksklusif;Perempuan;Ya;Banyak;4;Kontrol Rutin ke Puskesmas
+42;SMA;IRT;3.61;1;Menikah;Tidak;4;50;19.2;85.0;Lengkap;Eksklusif;Perempuan;Tidak;Kurang;3;Pemberian Makanan Tambahan
+35;SMA;IRT;1.73;4;Menikah;Ya;9;56;9.4;92.3;Lengkap;Eksklusif;Perempuan;Tidak;Kurang;3;Pemberian Makanan Tambahan
+31;SMA;Buruh;2.79;1;Menikah;Ya;3;59;5.0;85.5;Tidak Lengkap;Eksklusif;Perempuan;Tidak;Banyak;5;Lainnya
+35;D3;IRT;4.93;1;Menikah;Ya;9;13;9.1;66.0;Lengkap;Tidak Eksklusif;Laki-laki;Tidak;Cukup;2;Pemberian Makanan Tambahan
+19;SMA;Wirausaha;7.16;2;Menikah;Ya;4;46;8.3;75.6;Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;4;Lainnya
+39;SMA;IRT;7.93;4;Menikah;Ya;4;54;14.9;100.1;Lengkap;Eksklusif;Perempuan;Tidak;Kurang;5;Pemberian Makanan Tambahan
+20;SMA;Petani;7.25;1;Menikah;Ya;5;40;14.5;103.1;Lengkap;Eksklusif;Perempuan;Ya;Cukup;5;Lainnya
+33;SMA;IRT;5.16;4;Menikah;Ya;9;56;13.9;66.9;Tidak Lengkap;Eksklusif;Perempuan;Tidak;Cukup;3;Lainnya
+26;SMA;Wirausaha;10.44;2;Menikah;Ya;9;16;5.2;107.6;Lengkap;Eksklusif;Laki-laki;Tidak;Banyak;1;Pemberian Makanan Tambahan
+21;D3;Wirausaha;16.59;2;Menikah;Ya;5;29;15.9;76.4;Lengkap;Eksklusif;Perempuan;Tidak;Cukup;4;Lainnya
+18;SMA;Buruh;5.95;4;Menikah;Ya;7;54;9.9;93.1;Lengkap;Tidak Eksklusif;Perempuan;Tidak;Kurang;1;Pemberian Makanan Tambahan
+21;SMP;Wirausaha;18.88;2;Menikah;Ya;7;26;15.0;97.6;Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;4;Edukasi Gizi
+18;SMA;IRT;17.53;3;Menikah;Tidak;8;56;13.3;100.6;Tidak Lengkap;Eksklusif;Laki-laki;Ya;Banyak;2;Pemberian Makanan Tambahan
+31;SMA;Wirausaha;3.65;3;Belum Menikah;Ya;7;7;10.1;107.3;Lengkap;Eksklusif;Perempuan;Tidak;Banyak;3;Lainnya
+38;S1;IRT;15.83;2;Menikah;Ya;1;45;7.0;75.6;Lengkap;Tidak Eksklusif;Perempuan;Ya;Cukup;2;Pemberian Makanan Tambahan
+33;SD;Wirausaha;11.7;3;Belum Menikah;Ya;9;24;6.4;102.9;Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;5;Edukasi Gizi
+37;SMP;IRT;11.55;1;Menikah;Ya;0;44;17.5;66.6;Tidak Lengkap;Eksklusif;Perempuan;Tidak;Cukup;3;Kontrol Rutin ke Puskesmas
+41;SMA;Guru;8.13;4;Menikah;Ya;9;33;18.8;95.3;Lengkap;Eksklusif;Laki-laki;Tidak;Kurang;5;Pemberian Makanan Tambahan
+25;SMA;PNS;10.27;1;Menikah;Ya;1;22;14.7;97.1;Tidak Lengkap;Eksklusif;Laki-laki;Tidak;Banyak;2;Pemberian Makanan Tambahan
+24;D3;IRT;8.24;4;Menikah;Ya;1;11;6.6;93.9;Lengkap;Eksklusif;Perempuan;Tidak;Cukup;4;Kontrol Rutin ke Puskesmas
+20;SD;IRT;11.02;2;Cerai;Ya;2;24;11.0;72.6;Tidak Lengkap;Tidak Eksklusif;Perempuan;Tidak;Kurang;5;Pemberian Makanan Tambahan
+34;D3;IRT;12.75;1;Menikah;Tidak;9;43;15.9;103.7;Lengkap;Eksklusif;Perempuan;Tidak;Cukup;1;Pemberian Makanan Tambahan
+18;SD;Buruh;13.65;2;Menikah;Tidak;6;33;16.7;68.4;Lengkap;Eksklusif;Perempuan;Tidak;Banyak;4;Edukasi Gizi
+33;D3;Guru;10.88;2;Menikah;Ya;1;7;6.8;62.7;Lengkap;Tidak Eksklusif;Laki-laki;Tidak;Cukup;4;Kontrol Rutin ke Puskesmas
+29;SD;IRT;14.57;4;Menikah;Ya;0;43;5.0;95.9;Lengkap;Eksklusif;Perempuan;Ya;Kurang;2;Pemberian Makanan Tambahan
+44;SD;Buruh;3.25;4;Menikah;Ya;5;42;15.7;83.8;Tidak Lengkap;Eksklusif;Laki-laki;Tidak;Banyak;2;Pemberian Makanan Tambahan
+36;SMA;IRT;4.63;4;Menikah;Ya;8;56;10.3;102.5;Tidak Lengkap;Eksklusif;Laki-laki;Tidak;Kurang;3;Pemberian Makanan Tambahan
+39;S1;Wirausaha;16.47;1;Menikah;Tidak;2;57;8.8;79.2;Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;3;Kontrol Rutin ke Puskesmas
+40;D3;IRT;6.79;3;Menikah;Ya;5;9;5.2;68.4;Lengkap;Eksklusif;Laki-laki;Tidak;Banyak;1;Pemberian Makanan Tambahan
+39;SMA;IRT;0.95;4;Menikah;Ya;2;27;13.1;101.8;Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;4;Kontrol Rutin ke Puskesmas
+31;S1;IRT;3.5;4;Menikah;Ya;0;31;17.8;87.4;Tidak Lengkap;Tidak Eksklusif;Laki-laki;Tidak;Cukup;1;Pemberian Makanan Tambahan
+23;SD;Buruh;4.86;1;Menikah;Ya;4;54;19.4;69.5;Lengkap;Tidak Eksklusif;Laki-laki;Tidak;Cukup;1;Pemberian Makanan Tambahan
+23;S1;Wirausaha;19.17;4;Belum Menikah;Ya;9;48;13.5;96.0;Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;2;Pemberian Makanan Tambahan
+30;SMA;Buruh;11.67;1;Menikah;Ya;3;41;12.7;85.6;Lengkap;Eksklusif;Perempuan;Tidak;Kurang;1;Pemberian Makanan Tambahan
+36;D3;IRT;18.69;2;Menikah;Ya;6;18;6.3;90.2;Lengkap;Eksklusif;Laki-laki;Tidak;Banyak;1;Pemberian Makanan Tambahan
+39;D3;PNS;11.72;4;Menikah;Ya;5;57;13.2;83.0;Lengkap;Tidak Eksklusif;Laki-laki;Tidak;Cukup;5;Lainnya
+25;D3;PNS;9.85;4;Menikah;Ya;9;37;10.7;101.4;Lengkap;Eksklusif;Perempuan;Tidak;Cukup;3;Lainnya
+44;SMA;IRT;6.62;2;Menikah;Ya;6;22;14.1;101.5;Lengkap;Eksklusif;Perempuan;Tidak;Cukup;3;Lainnya
+44;SMA;PNS;12.32;2;Belum Menikah;Ya;4;46;10.8;95.5;Tidak Lengkap;Tidak Eksklusif;Perempuan;Ya;Cukup;4;Lainnya
+19;D3;Wirausaha;3.21;2;Menikah;Ya;3;41;8.6;65.3;Lengkap;Tidak Eksklusif;Laki-laki;Tidak;Banyak;3;Lainnya
+38;SMP;IRT;18.02;4;Belum Menikah;Ya;6;51;6.4;101.9;Lengkap;Tidak Eksklusif;Perempuan;Tidak;Cukup;4;Edukasi Gizi
+18;S1;PNS;16.67;3;Menikah;Ya;6;24;9.7;93.6;Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;5;Lainnya
+32;D3;PNS;6.69;3;Menikah;Ya;5;40;6.4;94.9;Tidak Lengkap;Tidak Eksklusif;Laki-laki;Tidak;Banyak;3;Lainnya
+18;SMP;Buruh;19.08;3;Menikah;Tidak;7;51;7.7;78.1;Lengkap;Tidak Eksklusif;Laki-laki;Tidak;Kurang;5;Pemberian Makanan Tambahan
+22;D3;IRT;16.59;4;Menikah;Ya;3;45;19.8;104.0;Lengkap;Eksklusif;Perempuan;Tidak;Kurang;3;Pemberian Makanan Tambahan
+33;SMA;IRT;13.49;2;Menikah;Ya;9;33;11.7;96.3;Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;3;Lainnya
+36;D3;Wirausaha;2.87;4;Menikah;Ya;4;6;13.0;65.6;Lengkap;Eksklusif;Laki-laki;Tidak;Banyak;5;Lainnya
+21;D3;Wirausaha;9.83;2;Menikah;Ya;3;47;18.1;80.4;Lengkap;Tidak Eksklusif;Laki-laki;Ya;Cukup;1;Pemberian Makanan Tambahan
+20;SD;Petani;10.37;4;Menikah;Ya;0;23;19.9;104.3;Tidak Lengkap;Eksklusif;Perempuan;Tidak;Banyak;1;Pemberian Makanan Tambahan
+34;SMA;Buruh;5.03;4;Menikah;Ya;7;53;13.7;62.4;Tidak Lengkap;Eksklusif;Perempuan;Tidak;Banyak;1;Pemberian Makanan Tambahan
+34;S1;Petani;2.06;2;Menikah;Tidak;0;45;17.2;108.1;Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;1;Pemberian Makanan Tambahan
+29;SMA;Guru;15.65;3;Menikah;Ya;4;38;9.9;94.0;Lengkap;Tidak Eksklusif;Perempuan;Tidak;Banyak;3;Lainnya
+31;SMA;Buruh;2.88;2;Menikah;Ya;5;17;9.6;91.6;Tidak Lengkap;Eksklusif;Perempuan;Tidak;Banyak;2;Pemberian Makanan Tambahan
+38;SMA;IRT;12.09;1;Menikah;Ya;5;13;11.0;73.5;Lengkap;Eksklusif;Perempuan;Tidak;Banyak;5;Lainnya
+23;SMA;Wirausaha;18.76;1;Menikah;Ya;4;29;15.1;72.4;Tidak Lengkap;Eksklusif;Laki-laki;Tidak;Banyak;2;Pemberian Makanan Tambahan
+20;SMA;Buruh;17.58;2;Menikah;Tidak;2;21;15.2;107.1;Lengkap;Tidak Eksklusif;Perempuan;Tidak;Banyak;2;Pemberian Makanan Tambahan
+26;SMA;Wirausaha;5.92;4;Menikah;Ya;4;55;9.7;74.9;Tidak Lengkap;Eksklusif;Laki-laki;Tidak;Kurang;4;Pemberian Makanan Tambahan
+22;SMP;IRT;17.1;1;Belum Menikah;Ya;7;9;7.0;98.8;Tidak Lengkap;Eksklusif;Perempuan;Tidak;Banyak;1;Pemberian Makanan Tambahan
+41;SMA;IRT;0.51;1;Menikah;Tidak;1;43;14.5;79.7;Tidak Lengkap;Tidak Eksklusif;Laki-laki;Tidak;Banyak;3;Kontrol Rutin ke Puskesmas
+34;SD;IRT;0.84;4;Menikah;Ya;5;49;6.9;67.0;Lengkap;Eksklusif;Laki-laki;Tidak;Banyak;1;Pemberian Makanan Tambahan
+31;SMP;Buruh;12.25;4;Menikah;Ya;8;32;13.7;60.5;Lengkap;Tidak Eksklusif;Laki-laki;Tidak;Kurang;1;Pemberian Makanan Tambahan
+38;SD;Wirausaha;7.61;3;Menikah;Ya;7;14;15.4;87.2;Tidak Lengkap;Eksklusif;Perempuan;Tidak;Cukup;2;Pemberian Makanan Tambahan
+20;SMP;IRT;8.04;4;Menikah;Ya;7;52;15.5;108.8;Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;4;Edukasi Gizi
+18;SMA;Wirausaha;11.51;2;Menikah;Ya;7;21;16.3;78.5;Lengkap;Eksklusif;Perempuan;Tidak;Kurang;1;Pemberian Makanan Tambahan
+37;SMA;Guru;4.24;2;Menikah;Ya;6;17;18.1;77.9;Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;5;Lainnya
+38;D3;Wirausaha;4.63;3;Menikah;Ya;7;36;12.5;77.2;Tidak Lengkap;Eksklusif;Perempuan;Tidak;Cukup;5;Lainnya
+40;SMP;IRT;9.95;1;Menikah;Ya;5;29;16.0;86.0;Tidak Lengkap;Eksklusif;Perempuan;Ya;Banyak;1;Pemberian Makanan Tambahan
+18;D3;Wirausaha;15.21;1;Menikah;Ya;1;19;14.3;82.0;Lengkap;Tidak Eksklusif;Perempuan;Tidak;Cukup;2;Pemberian Makanan Tambahan
+20;D3;PNS;12.58;4;Menikah;Ya;1;50;7.8;104.0;Tidak Lengkap;Eksklusif;Perempuan;Tidak;Cukup;2;Pemberian Makanan Tambahan
+35;SMA;IRT;6.3;2;Cerai;Ya;7;30;5.4;85.3;Lengkap;Eksklusif;Perempuan;Ya;Cukup;3;Lainnya
+42;S1;IRT;8.89;1;Menikah;Ya;0;39;9.3;85.4;Lengkap;Eksklusif;Laki-laki;Tidak;Banyak;4;Kontrol Rutin ke Puskesmas
+27;S1;Wirausaha;3.83;3;Cerai;Ya;5;8;11.6;66.9;Lengkap;Tidak Eksklusif;Perempuan;Tidak;Cukup;2;Pemberian Makanan Tambahan
+39;SMP;Wirausaha;1.96;3;Menikah;Ya;5;29;14.3;109.1;Lengkap;Eksklusif;Laki-laki;Tidak;Banyak;3;Edukasi Gizi
+43;SMA;IRT;15.76;2;Menikah;Ya;3;59;17.7;72.5;Lengkap;Eksklusif;Perempuan;Tidak;Banyak;5;Lainnya
+20;S1;PNS;5.68;3;Menikah;Ya;9;47;7.9;63.7;Tidak Lengkap;Eksklusif;Perempuan;Ya;Cukup;5;Lainnya
+25;D3;Wirausaha;3.97;3;Menikah;Tidak;2;14;6.9;93.2;Lengkap;Eksklusif;Laki-laki;Tidak;Kurang;5;Pemberian Makanan Tambahan
+31;SD;Wirausaha;13.99;2;Menikah;Ya;2;31;19.5;89.8;Lengkap;Eksklusif;Laki-laki;Ya;Cukup;1;Pemberian Makanan Tambahan
+41;D3;Wirausaha;12.55;4;Menikah;Ya;0;25;6.6;80.8;Tidak Lengkap;Tidak Eksklusif;Laki-laki;Tidak;Cukup;4;Kontrol Rutin ke Puskesmas
+35;D3;PNS;12.85;4;Menikah;Ya;2;45;12.2;81.1;Lengkap;Eksklusif;Perempuan;Ya;Banyak;3;Kontrol Rutin ke Puskesmas
+32;D3;Buruh;4.96;3;Menikah;Ya;3;15;13.8;99.3;Tidak Lengkap;Tidak Eksklusif;Perempuan;Tidak;Banyak;4;Lainnya
+39;D3;Buruh;5.04;4;Menikah;Ya;4;24;13.1;69.8;Lengkap;Eksklusif;Perempuan;Tidak;Banyak;1;Pemberian Makanan Tambahan
+40;D3;Buruh;4.81;4;Menikah;Tidak;2;8;6.3;101.0;Tidak Lengkap;Eksklusif;Perempuan;Tidak;Cukup;3;Kontrol Rutin ke Puskesmas
+19;SMP;PNS;3.89;3;Menikah;Ya;5;29;5.9;92.4;Lengkap;Tidak Eksklusif;Perempuan;Tidak;Banyak;3;Edukasi Gizi
+44;SMP;PNS;13.29;4;Menikah;Ya;4;10;6.6;80.9;Tidak Lengkap;Eksklusif;Laki-laki;Tidak;Banyak;2;Pemberian Makanan Tambahan
+27;SMA;IRT;17.04;3;Belum Menikah;Ya;2;8;13.8;82.9;Lengkap;Tidak Eksklusif;Laki-laki;Ya;Cukup;4;Kontrol Rutin ke Puskesmas
+19;S1;Wirausaha;14.62;1;Cerai;Ya;5;32;13.2;72.8;Lengkap;Eksklusif;Perempuan;Tidak;Banyak;4;Lainnya
+43;SMA;PNS;15.95;2;Menikah;Ya;5;21;8.5;97.6;Tidak Lengkap;Tidak Eksklusif;Perempuan;Tidak;Cukup;2;Pemberian Makanan Tambahan
+34;SMA;Guru;8.39;2;Menikah;Ya;7;54;14.6;85.6;Lengkap;Eksklusif;Perempuan;Ya;Cukup;5;Lainnya
+25;SMA;Buruh;13.25;4;Menikah;Ya;1;20;17.3;76.0;Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;1;Pemberian Makanan Tambahan
+18;SMA;Guru;7.41;4;Menikah;Ya;0;40;5.6;89.8;Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;4;Kontrol Rutin ke Puskesmas
+26;D3;IRT;10.75;4;Menikah;Ya;3;17;12.5;109.8;Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;2;Pemberian Makanan Tambahan
+28;D3;IRT;9.89;2;Menikah;Ya;6;46;15.3;81.8;Lengkap;Eksklusif;Laki-laki;Tidak;Banyak;3;Lainnya
+39;SMA;IRT;3.95;1;Menikah;Tidak;9;58;8.8;106.0;Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;2;Pemberian Makanan Tambahan
+33;SMA;IRT;8.05;1;Menikah;Ya;2;49;9.6;77.3;Lengkap;Eksklusif;Perempuan;Tidak;Kurang;5;Pemberian Makanan Tambahan
+24;SMA;Buruh;19.29;2;Menikah;Tidak;2;31;14.2;62.7;Lengkap;Eksklusif;Laki-laki;Tidak;Banyak;1;Pemberian Makanan Tambahan
+27;SMA;Guru;5.35;1;Menikah;Ya;4;52;18.5;70.2;Lengkap;Tidak Eksklusif;Perempuan;Ya;Banyak;5;Lainnya
+40;SMA;IRT;3.11;2;Cerai;Tidak;4;39;17.1;80.9;Lengkap;Eksklusif;Laki-laki;Tidak;Kurang;3;Pemberian Makanan Tambahan
+43;SMA;PNS;8.66;1;Menikah;Tidak;9;28;13.7;71.0;Lengkap;Eksklusif;Perempuan;Tidak;Cukup;3;Lainnya
+20;SMA;IRT;15.91;3;Menikah;Ya;2;36;16.0;60.0;Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;3;Kontrol Rutin ke Puskesmas
+35;SD;Wirausaha;11.85;3;Cerai;Ya;8;55;10.5;105.8;Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;3;Edukasi Gizi
+42;SMP;Wirausaha;13.78;2;Menikah;Ya;3;25;14.6;102.2;Tidak Lengkap;Eksklusif;Laki-laki;Ya;Banyak;2;Pemberian Makanan Tambahan
+41;SMA;IRT;4.2;1;Menikah;Tidak;2;17;12.0;97.1;Lengkap;Eksklusif;Perempuan;Tidak;Cukup;3;Kontrol Rutin ke Puskesmas
+30;SMA;Buruh;12.57;4;Menikah;Ya;1;28;7.8;68.4;Lengkap;Tidak Eksklusif;Perempuan;Tidak;Cukup;3;Kontrol Rutin ke Puskesmas
+43;SMA;IRT;6.81;1;Menikah;Ya;9;9;15.5;66.0;Lengkap;Tidak Eksklusif;Laki-laki;Ya;Banyak;2;Pemberian Makanan Tambahan
+24;D3;Guru;16.77;3;Menikah;Ya;8;28;13.3;63.4;Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;3;Lainnya
+42;SMA;Petani;12.77;3;Menikah;Tidak;3;53;10.4;96.2;Lengkap;Eksklusif;Perempuan;Ya;Cukup;5;Lainnya
+21;SMP;IRT;4.38;1;Belum Menikah;Tidak;2;53;18.7;106.4;Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;5;Kontrol Rutin ke Puskesmas
+30;D3;Guru;1.76;1;Menikah;Tidak;6;6;5.3;81.5;Lengkap;Eksklusif;Laki-laki;Tidak;Banyak;4;Lainnya
+37;SMA;IRT;1.33;4;Menikah;Ya;7;59;9.7;66.0;Lengkap;Eksklusif;Perempuan;Tidak;Cukup;5;Lainnya
+18;D3;IRT;7.74;4;Menikah;Ya;1;30;5.9;85.6;Lengkap;Eksklusif;Perempuan;Tidak;Cukup;1;Pemberian Makanan Tambahan
+25;SMA;Petani;5.68;1;Menikah;Ya;6;7;16.5;77.4;Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;1;Pemberian Makanan Tambahan
+31;S1;Buruh;13.1;1;Menikah;Ya;4;35;15.5;78.7;Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;1;Pemberian Makanan Tambahan
+33;D3;Guru;10.24;1;Menikah;Ya;4;8;10.0;91.1;Lengkap;Eksklusif;Perempuan;Tidak;Banyak;2;Pemberian Makanan Tambahan
+31;D3;Buruh;5.69;1;Menikah;Ya;2;26;15.1;95.9;Tidak Lengkap;Tidak Eksklusif;Laki-laki;Tidak;Cukup;5;Kontrol Rutin ke Puskesmas
+29;D3;Wirausaha;3.41;2;Menikah;Ya;4;30;10.9;65.5;Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;1;Pemberian Makanan Tambahan
+36;SMP;IRT;2.98;1;Belum Menikah;Ya;1;25;16.3;61.8;Lengkap;Tidak Eksklusif;Perempuan;Ya;Banyak;4;Kontrol Rutin ke Puskesmas
+40;SMP;Buruh;17.36;4;Menikah;Tidak;3;54;11.8;109.7;Tidak Lengkap;Tidak Eksklusif;Perempuan;Tidak;Cukup;2;Pemberian Makanan Tambahan
+32;D3;Petani;5.25;3;Menikah;Ya;5;57;11.2;71.6;Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;4;Lainnya
+19;SMA;Buruh;13.21;2;Menikah;Tidak;0;27;19.0;62.7;Lengkap;Eksklusif;Perempuan;Ya;Cukup;5;Kontrol Rutin ke Puskesmas
+19;D3;Wirausaha;16.31;1;Cerai;Ya;9;26;8.8;69.5;Tidak Lengkap;Eksklusif;Perempuan;Tidak;Banyak;3;Lainnya
+40;SMP;PNS;12.47;3;Menikah;Ya;3;38;6.8;61.9;Tidak Lengkap;Tidak Eksklusif;Laki-laki;Tidak;Cukup;4;Edukasi Gizi
+39;SMA;Petani;17.26;2;Cerai;Ya;5;57;13.8;79.6;Lengkap;Tidak Eksklusif;Perempuan;Ya;Kurang;3;Pemberian Makanan Tambahan
+36;SMA;PNS;8.15;3;Menikah;Ya;8;43;19.5;100.1;Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;2;Pemberian Makanan Tambahan
+42;SMA;Wirausaha;19.15;1;Menikah;Ya;1;20;10.7;77.1;Lengkap;Eksklusif;Laki-laki;Tidak;Kurang;4;Pemberian Makanan Tambahan
+43;SMA;Wirausaha;3.1;1;Menikah;Ya;6;51;5.9;82.2;Tidak Lengkap;Tidak Eksklusif;Perempuan;Tidak;Kurang;4;Pemberian Makanan Tambahan
+39;SMA;PNS;2.49;4;Menikah;Ya;5;57;10.1;93.8;Lengkap;Eksklusif;Laki-laki;Tidak;Banyak;2;Pemberian Makanan Tambahan
+43;SMA;PNS;13.34;1;Menikah;Ya;1;20;12.6;85.4;Lengkap;Tidak Eksklusif;Laki-laki;Tidak;Cukup;2;Pemberian Makanan Tambahan
+43;SMA;IRT;18.89;1;Menikah;Ya;7;51;7.4;103.1;Tidak Lengkap;Tidak Eksklusif;Laki-laki;Tidak;Cukup;1;Pemberian Makanan Tambahan
+39;SMA;IRT;16.27;2;Menikah;Tidak;6;30;14.9;103.3;Lengkap;Eksklusif;Laki-laki;Tidak;Kurang;5;Pemberian Makanan Tambahan
+34;D3;Guru;1.99;4;Menikah;Ya;4;26;20.0;60.5;Lengkap;Eksklusif;Perempuan;Ya;Banyak;4;Lainnya
+37;SD;IRT;5.95;2;Belum Menikah;Ya;4;29;11.8;98.9;Lengkap;Eksklusif;Perempuan;Ya;Kurang;4;Pemberian Makanan Tambahan
+27;SMA;Buruh;18.64;3;Menikah;Ya;6;10;10.3;83.0;Lengkap;Eksklusif;Perempuan;Tidak;Cukup;2;Pemberian Makanan Tambahan
+23;SMA;IRT;5.43;1;Belum Menikah;Ya;8;11;11.0;109.4;Tidak Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;2;Pemberian Makanan Tambahan
+32;D3;Buruh;15.73;3;Menikah;Ya;8;54;6.7;84.2;Lengkap;Tidak Eksklusif;Laki-laki;Tidak;Banyak;5;Lainnya
+39;SMA;PNS;16.59;2;Menikah;Ya;8;48;18.2;109.3;Tidak Lengkap;Tidak Eksklusif;Laki-laki;Ya;Banyak;2;Pemberian Makanan Tambahan
+28;D3;Wirausaha;10.16;1;Menikah;Tidak;5;53;11.2;97.7;Lengkap;Tidak Eksklusif;Laki-laki;Tidak;Cukup;3;Lainnya
+22;S1;IRT;8.03;1;Menikah;Ya;9;49;10.8;72.4;Lengkap;Eksklusif;Laki-laki;Ya;Banyak;3;Lainnya
+18;SMA;Guru;9.28;2;Menikah;Tidak;5;52;14.9;86.9;Tidak Lengkap;Tidak Eksklusif;Perempuan;Tidak;Kurang;3;Pemberian Makanan Tambahan
+25;SMP;Wirausaha;4.93;2;Menikah;Tidak;2;28;11.6;109.6;Lengkap;Tidak Eksklusif;Perempuan;Ya;Banyak;3;Kontrol Rutin ke Puskesmas
+38;SMA;IRT;17.84;2;Menikah;Ya;0;9;14.7;102.9;Lengkap;Eksklusif;Perempuan;Ya;Cukup;5;Kontrol Rutin ke Puskesmas
+29;SMP;Wirausaha;9.29;2;Cerai;Ya;6;32;5.9;64.9;Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;4;Edukasi Gizi
+29;SMA;Buruh;17.71;2;Menikah;Tidak;3;23;17.2;95.3;Tidak Lengkap;Eksklusif;Perempuan;Tidak;Cukup;3;Lainnya
+22;S1;Buruh;2.56;1;Menikah;Ya;0;26;19.1;77.3;Lengkap;Tidak Eksklusif;Laki-laki;Tidak;Cukup;2;Pemberian Makanan Tambahan
+24;SMP;Wirausaha;19.77;2;Cerai;Ya;7;33;14.7;60.3;Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;3;Edukasi Gizi
+21;SMP;IRT;9.14;1;Menikah;Tidak;5;40;19.3;80.2;Lengkap;Tidak Eksklusif;Perempuan;Tidak;Banyak;5;Edukasi Gizi
+23;SMP;Petani;1.43;1;Menikah;Ya;5;27;7.3;71.7;Lengkap;Eksklusif;Perempuan;Tidak;Banyak;2;Pemberian Makanan Tambahan
+30;D3;Wirausaha;1.24;2;Menikah;Ya;1;45;12.2;100.9;Tidak Lengkap;Tidak Eksklusif;Laki-laki;Ya;Cukup;3;Kontrol Rutin ke Puskesmas
+37;SMA;IRT;15.05;2;Menikah;Ya;0;28;14.0;76.9;Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;4;Kontrol Rutin ke Puskesmas
+32;SMP;Petani;13.35;4;Menikah;Ya;1;8;13.7;101.4;Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;2;Pemberian Makanan Tambahan
+20;S1;Wirausaha;16.14;1;Menikah;Ya;3;45;11.0;60.0;Lengkap;Eksklusif;Perempuan;Tidak;Cukup;2;Pemberian Makanan Tambahan
+40;D3;IRT;2.55;2;Menikah;Ya;1;55;10.1;75.4;Lengkap;Eksklusif;Laki-laki;Ya;Cukup;4;Kontrol Rutin ke Puskesmas
+25;SD;Wirausaha;1.19;2;Menikah;Ya;0;15;6.9;72.1;Tidak Lengkap;Tidak Eksklusif;Perempuan;Tidak;Cukup;2;Pemberian Makanan Tambahan
+37;SMA;Guru;10.42;2;Menikah;Ya;6;30;10.9;71.7;Lengkap;Eksklusif;Laki-laki;Tidak;Banyak;3;Lainnya
+33;D3;Petani;8.06;4;Menikah;Ya;7;57;7.4;63.4;Tidak Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;2;Pemberian Makanan Tambahan
+30;SMA;Petani;9.51;4;Menikah;Ya;5;54;16.0;69.4;Lengkap;Eksklusif;Laki-laki;Ya;Kurang;3;Pemberian Makanan Tambahan
+35;SD;IRT;19.84;3;Menikah;Ya;3;13;8.1;87.8;Lengkap;Eksklusif;Perempuan;Ya;Kurang;4;Pemberian Makanan Tambahan
+27;SD;Wirausaha;19.43;1;Menikah;Ya;5;16;5.9;74.6;Tidak Lengkap;Eksklusif;Laki-laki;Tidak;Cukup;1;Pemberian Makanan Tambahan
+36;SMP;Wirausaha;18.88;3;Menikah;Ya;2;10;13.3;80.9;Lengkap;Eksklusif;Perempuan;Tidak;Cukup;4;Kontrol Rutin ke Puskesmas
+34;D3;Petani;15.78;2;Cerai;Ya;7;50;13.9;78.8;Lengkap;Tidak Eksklusif;Perempuan;Tidak;Kurang;3;Pemberian Makanan Tambahan
+41;S1;PNS;7.42;4;Menikah;Ya;9;58;18.1;103.8;Tidak Lengkap;Eksklusif;Perempuan;Tidak;Cukup;5;Lainnya
+36;SMP;Petani;8.54;4;Menikah;Tidak;1;42;13.7;105.3;Lengkap;Tidak Eksklusif;Perempuan;Tidak;Banyak;4;Kontrol Rutin ke Puskesmas
+43;SMP;Buruh;11.22;3;Menikah;Ya;4;50;10.2;84.6;Lengkap;Tidak Eksklusif;Perempuan;Tidak;Banyak;5;Edukasi Gizi
+40;SMP;Petani;16.7;4;Menikah;Ya;0;43;17.0;76.5;Lengkap;Eksklusif;Perempuan;Tidak;Cukup;5;Kontrol Rutin ke Puskesmas
